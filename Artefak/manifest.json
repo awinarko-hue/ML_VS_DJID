@@ -1,0 +1,21 @@
+{
+  "versi": "v1.0.0",
+  "artifacts": {
+    "djid_csv": {
+      "path": "Artefak/DJID.csv",
+      "sha256": "fdcc3ecfd33b64d439493ed35d717237718175c7453ceb6f762819eb35cbe3c2"
+    },
+    "faiss_index": {
+      "path": "Artefak/faiss_djid.index",
+      "sha256": "23ef3b55e09b9af43e8d4089e9f1075bbcd00e99737173c8cb314c9218d2565a"
+    },
+    "classifier_production": {
+      "path": "Artefak/classifier_terbaik.pkl",
+      "sha256": "4515941aca998f1596639ec461b438289ff021753b8fd4fea95d7957f15d488d"
+    },
+    "classifier_evaluable": {
+      "path": "Artefak/classifier_evaluable.pkl",
+      "sha256": "c2c011738cc8acbe47014ea0709799cd449ec430dc09b4dc7b4d5cab6a426150"
+    }
+  }
+}

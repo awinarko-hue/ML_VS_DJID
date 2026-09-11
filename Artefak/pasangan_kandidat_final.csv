@@ -1,0 +1,801 @@
+idx_listing,idx_djid,rank,judul_listing,identitas_djid,cosine_faiss,brand_listing,brand_djid,label,perlu_review
+0,231,1,Radio HT Handy Talky MagOne by Motorola X10d Analog Digital DMR VHF / UHF Mag One Garansi resmi,Voxter UV-X5 ( 136-174 Mhz & 400-430 Mhz ),0.75950104,motorola,voxter,0,0
+0,687,2,Radio HT Handy Talky MagOne by Motorola X10d Analog Digital DMR VHF / UHF Mag One Garansi resmi,Simoco EMEA SDP760 T1,0.747165084,motorola,simoco emea,0,0
+0,733,3,Radio HT Handy Talky MagOne by Motorola X10d Analog Digital DMR VHF / UHF Mag One Garansi resmi,KENWOOD NX-220 (136-174 MHz),0.745211959,motorola,kenwood,0,0
+0,373,4,Radio HT Handy Talky MagOne by Motorola X10d Analog Digital DMR VHF / UHF Mag One Garansi resmi,Motorola MagOne A8 VHF 150-174 MHz,0.737988472,motorola,motorola,0,0
+0,488,5,Radio HT Handy Talky MagOne by Motorola X10d Analog Digital DMR VHF / UHF Mag One Garansi resmi,MOTOROLA SL1M,0.727530718,motorola,motorola,0,0
+1,401,1,Radio HT ICOM IC-V88 VHF Walkie Talkie 5W Output Power IP67 Resmi Garansi 1 Tahun Antena,ICOM IC-F44GT (FREQ.400-430MHz),0.746258378,icom,icom,0,0
+1,308,2,Radio HT ICOM IC-V88 VHF Walkie Talkie 5W Output Power IP67 Resmi Garansi 1 Tahun Antena,ICOM IC-F5023H FREQ. 136-174MHz,0.743495107,icom,icom,0,0
+1,285,3,Radio HT ICOM IC-V88 VHF Walkie Talkie 5W Output Power IP67 Resmi Garansi 1 Tahun Antena,ICOM IC-F5023H FREQ. 136-174MHz,0.743495107,icom,icom,0,0
+1,1242,4,Radio HT ICOM IC-V88 VHF Walkie Talkie 5W Output Power IP67 Resmi Garansi 1 Tahun Antena,TAIT TB8200 (762 - 870 MHz),0.737111628,icom,tait,0,0
+1,205,5,Radio HT ICOM IC-V88 VHF Walkie Talkie 5W Output Power IP67 Resmi Garansi 1 Tahun Antena,ICOM IC-V80 (Freq. 136-174 MHz),0.734911799,icom,icom,0,1
+2,314,1,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-GM800 GM 800 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M504 (Freq. 156.025 - 163.275 MHz),0.881614685,icom,icom,0,0
+2,395,2,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-GM800 GM 800 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.877589881,icom,icom,0,0
+2,286,3,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-GM800 GM 800 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.877589881,icom,icom,0,0
+2,412,4,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-GM800 GM 800 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M422,0.83348155,icom,icom,0,0
+2,284,5,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-GM800 GM 800 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Transceiver / IC-F3003 (136 - 174 MHz),0.780908823,icom,icom,0,0
+3,314,1,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-M804 M 804 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M504 (Freq. 156.025 - 163.275 MHz),0.893673122,icom,icom,0,0
+3,395,2,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-M804 M 804 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.887572289,icom,icom,0,0
+3,286,3,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-M804 M 804 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.887572289,icom,icom,0,0
+3,412,4,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-M804 M 804 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Marine Transceiver / IC-M422,0.850542486,icom,icom,0,0
+3,284,5,Radio HF / SSB/ Base Station Marine Kapal ICOM IC-M804 M 804 VHF MARINE TRANSCEIVER satu Paket dengan AT-141 Dan OPC-1465 Garansi Resmi 1 Tahun IPX7 100% ORIGINAL,ICOM VHF Transceiver / IC-F3003 (136 - 174 MHz),0.776365876,icom,icom,0,0
+4,1222,1,Radio HT Handy Talkie Berlin BL-968 BL 968 VHF & UHF Dual Band Output 10 Watt IP68 Original,BERLIN BL-889,0.784043372,berlin,berlin,0,0
+4,33,2,Radio HT Handy Talkie Berlin BL-968 BL 968 VHF & UHF Dual Band Output 10 Watt IP68 Original,BERLIN BL-889,0.784043372,berlin,berlin,0,0
+4,390,3,Radio HT Handy Talkie Berlin BL-968 BL 968 VHF & UHF Dual Band Output 10 Watt IP68 Original,LDT 800 (VHF Frek. 135-174 MHz),0.783271968,berlin,ldt,0,0
+4,291,4,Radio HT Handy Talkie Berlin BL-968 BL 968 VHF & UHF Dual Band Output 10 Watt IP68 Original,JACOM JACOM JC-668 VHF 136-174Mhz,0.783220947,berlin,jacom,0,0
+4,231,5,Radio HT Handy Talkie Berlin BL-968 BL 968 VHF & UHF Dual Band Output 10 Watt IP68 Original,Voxter UV-X5 ( 136-174 Mhz & 400-430 Mhz ),0.782793522,berlin,voxter,0,0
+5,417,1,Radio HF / SSB / Base Station ICOM IC-718 HF ALL BAND TRANSCEIVER Original Garansi,ICOM VHF Transceiver / IC-F3003 (136 - 174 MHz),0.815847516,icom,icom,0,0
+5,284,2,Radio HF / SSB / Base Station ICOM IC-718 HF ALL BAND TRANSCEIVER Original Garansi,ICOM VHF Transceiver / IC-F3003 (136 - 174 MHz),0.815847456,icom,icom,0,0
+5,413,3,Radio HF / SSB / Base Station ICOM IC-718 HF ALL BAND TRANSCEIVER Original Garansi,ICOM VHF Air Band Transceiver / IC-A210,0.802066565,icom,icom,0,0
+5,396,4,Radio HF / SSB / Base Station ICOM IC-718 HF ALL BAND TRANSCEIVER Original Garansi,ICOM 144 MHz FM Transceiver IC-2100H,0.785840154,icom,icom,0,0
+5,360,5,Radio HF / SSB / Base Station ICOM IC-718 HF ALL BAND TRANSCEIVER Original Garansi,Alinco Dual Band Transceiver / DR-635 (VHF 144-147 MHz dan UHF 400 - 430 MHz),0.777099073,icom,alinco,0,0
+6,1065,1,Repeater Kenwood NXR-1800 NXR 1800 UHF DMR 40 Watt Garansi  Resmi Indonesia,"Motorola XIR R8200, 136-174 MHz, 25-45 Watt",0.765379429,kenwood,motorola,0,0
+6,1080,2,Repeater Kenwood NXR-1800 NXR 1800 UHF DMR 40 Watt Garansi  Resmi Indonesia,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.748917222,kenwood,hytera,0,0
+6,1069,3,Repeater Kenwood NXR-1800 NXR 1800 UHF DMR 40 Watt Garansi  Resmi Indonesia,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.748917222,kenwood,hytera,0,0
+6,1070,4,Repeater Kenwood NXR-1800 NXR 1800 UHF DMR 40 Watt Garansi  Resmi Indonesia,Hytera RD 988 UHF 350-400 Mhz <= 50 Watt,0.748325408,kenwood,hytera,0,0
+6,1081,5,Repeater Kenwood NXR-1800 NXR 1800 UHF DMR 40 Watt Garansi  Resmi Indonesia,Hytera RD 988 VHF  (136-174 Mhz.) <= 50 Watt,0.740926981,kenwood,hytera,0,0
+7,1065,1,Repeater Kenwood NXR-1700 NXR 1700 VHF DMR 50 Watt Garansi  Resmi Indonesia,"Motorola XIR R8200, 136-174 MHz, 25-45 Watt",0.772135019,kenwood,motorola,0,0
+7,1080,2,Repeater Kenwood NXR-1700 NXR 1700 VHF DMR 50 Watt Garansi  Resmi Indonesia,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.763235033,kenwood,hytera,0,0
+7,1069,3,Repeater Kenwood NXR-1700 NXR 1700 VHF DMR 50 Watt Garansi  Resmi Indonesia,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.763234973,kenwood,hytera,0,0
+7,1070,4,Repeater Kenwood NXR-1700 NXR 1700 VHF DMR 50 Watt Garansi  Resmi Indonesia,Hytera RD 988 UHF 350-400 Mhz <= 50 Watt,0.757029474,kenwood,hytera,0,0
+7,1081,5,Repeater Kenwood NXR-1700 NXR 1700 VHF DMR 50 Watt Garansi  Resmi Indonesia,Hytera RD 988 VHF  (136-174 Mhz.) <= 50 Watt,0.755527973,kenwood,hytera,0,0
+8,341,1,Radio RiG Mobiel Base Kenwood NX-1800HD NX 1800HD UHF Digital 45 Watt Garansi  Resmi Indonesia,KENWOOD Digital Mobile Radio 700/800MHz FM & P25 / TK-5910,0.763125539,kenwood,kenwood,0,0
+8,717,2,Radio RiG Mobiel Base Kenwood NX-1800HD NX 1800HD UHF Digital 45 Watt Garansi  Resmi Indonesia,KENWOOD NX-428 (Freq. 806-870 MHz),0.744255424,kenwood,kenwood,0,0
+8,306,3,Radio RiG Mobiel Base Kenwood NX-1800HD NX 1800HD UHF Digital 45 Watt Garansi  Resmi Indonesia,KENWOOD Mobile Radio UHF FM Transceiver 350-399 MHz /  TK-8185,0.741748691,kenwood,kenwood,0,1
+8,513,4,Radio RiG Mobiel Base Kenwood NX-1800HD NX 1800HD UHF Digital 45 Watt Garansi  Resmi Indonesia,Hytera HM688,0.733038545,kenwood,hytera,0,0
+8,882,5,Radio RiG Mobiel Base Kenwood NX-1800HD NX 1800HD UHF Digital 45 Watt Garansi  Resmi Indonesia,KIRISUN PT3800 (1) (Freq. 136-174 Mhz),0.729018688,kenwood,kirisun,0,0
+9,341,1,Radio RiG Mobiel Base Kenwood NX-1700HD NX 1700HD VHF Digital 50 Watt Garansi  Resmi Indonesia,KENWOOD Digital Mobile Radio 700/800MHz FM & P25 / TK-5910,0.776164174,kenwood,kenwood,0,0
+9,306,2,Radio RiG Mobiel Base Kenwood NX-1700HD NX 1700HD VHF Digital 50 Watt Garansi  Resmi Indonesia,KENWOOD Mobile Radio UHF FM Transceiver 350-399 MHz /  TK-8185,0.748228133,kenwood,kenwood,0,0
+9,717,3,Radio RiG Mobiel Base Kenwood NX-1700HD NX 1700HD VHF Digital 50 Watt Garansi  Resmi Indonesia,KENWOOD NX-428 (Freq. 806-870 MHz),0.740892708,kenwood,kenwood,0,0
+9,513,4,Radio RiG Mobiel Base Kenwood NX-1700HD NX 1700HD VHF Digital 50 Watt Garansi  Resmi Indonesia,Hytera HM688,0.735111058,kenwood,hytera,0,0
+9,260,5,Radio RiG Mobiel Base Kenwood NX-1700HD NX 1700HD VHF Digital 50 Watt Garansi  Resmi Indonesia,VOXTER UV-B5 (400-430 MHz & 136-174 MHz),0.72493875,kenwood,voxter,0,0
+10,619,1,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2660,0.542871892,motorola,motorola,0,0
+10,617,2,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2660,0.542871892,motorola,motorola,0,0
+10,602,3,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2660,0.542871892,motorola,motorola,0,0
+10,601,4,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2620,0.541962922,motorola,motorola,0,0
+10,568,5,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2620,0.541962922,motorola,motorola,0,0
+11,619,1,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2660,0.542871892,motorola,motorola,0,0
+11,617,2,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2660,0.542871892,motorola,motorola,0,0
+11,602,3,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2660,0.542871892,motorola,motorola,0,0
+11,601,4,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2620,0.541962922,motorola,motorola,0,0
+11,568,5,Motorola versi baru K head air duct walkie-talkie headset cocok untuk C51 C1,Motorola XiR C2620,0.541962922,motorola,motorola,0,0
+12,354,1,HT Motorola GP338 Plus Walkie Talkie Handy Talky outdoor 15Watt 20KM FM radio copy frequency Garansi 12 bulan,Motorola Radio Portable/GP3188 Freq 146-174MHz,0.787688851,motorola,motorola,0,0
+12,787,2,HT Motorola GP338 Plus Walkie Talkie Handy Talky outdoor 15Watt 20KM FM radio copy frequency Garansi 12 bulan,Motorola GP328 (136-174 Mhz),0.771333814,motorola,motorola,0,0
+12,415,3,HT Motorola GP338 Plus Walkie Talkie Handy Talky outdoor 15Watt 20KM FM radio copy frequency Garansi 12 bulan,"Motorola Portable Radio UHF / GP 338 Plus, Freq. 330-400 MHz",0.768694043,motorola,motorola,0,1
+12,1228,4,HT Motorola GP338 Plus Walkie Talkie Handy Talky outdoor 15Watt 20KM FM radio copy frequency Garansi 12 bulan,MOTOROLA XiR C2620,0.768160641,motorola,motorola,0,0
+12,39,5,HT Motorola GP338 Plus Walkie Talkie Handy Talky outdoor 15Watt 20KM FM radio copy frequency Garansi 12 bulan,MOTOROLA XiR C2620,0.768160641,motorola,motorola,0,0
+13,120,1,HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M8668i VHF 136-174Mhz,0.801624954,motorola,motorola,0,0
+13,1228,2,HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.792647719,motorola,motorola,0,0
+13,39,3,HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.792647719,motorola,motorola,0,0
+13,49,4,HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola TLK 110,0.792391002,motorola,motorola,0,0
+13,1199,5,HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR M8668i,0.792153835,motorola,motorola,0,0
+14,402,1,HT Motorola 370plus IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola MOTOTRBO XiR™ M8268,0.583304524,motorola,motorola,0,0
+14,675,2,HT Motorola 370plus IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola XiR P6600i (350 - 400 MHz),0.570880353,motorola,motorola,0,0
+14,563,3,HT Motorola 370plus IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola Mototrbo XiR P6600i ( 136-174 MHz ),0.569455504,motorola,motorola,0,0
+14,638,4,HT Motorola 370plus IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like Palm Tree Farms,"Motorola XiR E8600i, 350-400 MHz",0.568319082,motorola,motorola,0,0
+14,674,5,HT Motorola 370plus IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola XiR P6620i (350 - 400 MHz),0.567290187,motorola,motorola,0,0
+15,402,1,HT Motorola GP450 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like,Motorola MOTOTRBO XiR™ M8268,0.5941149,motorola,motorola,0,0
+15,675,2,HT Motorola GP450 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like,Motorola XiR P6600i (350 - 400 MHz),0.592016935,motorola,motorola,0,0
+15,638,3,HT Motorola GP450 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like,"Motorola XiR E8600i, 350-400 MHz",0.587196767,motorola,motorola,0,0
+15,563,4,HT Motorola GP450 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like,Motorola Mototrbo XiR P6600i ( 136-174 MHz ),0.585850656,motorola,motorola,0,0
+15,674,5,HT Motorola GP450 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support - Type-C Fast Charging Ideal for Large Areas Like,Motorola XiR P6620i (350 - 400 MHz),0.585549891,motorola,motorola,0,0
+16,120,1,HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M8668i VHF 136-174Mhz,0.809547305,motorola,motorola,0,0
+16,1228,2,HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.805910528,motorola,motorola,0,0
+16,39,3,HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.805910528,motorola,motorola,0,0
+16,49,4,HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola TLK 110,0.80306226,motorola,motorola,0,0
+16,1188,5,HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2660,0.802684963,motorola,motorola,0,0
+17,240,1,HT motolola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motolola High Power 10Watt High Capacity 6800mAh,MOTOROLA SLR 5300 VHF 136-174MHZ,0.661774755,,motorola,0,1
+17,239,2,HT motolola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motolola High Power 10Watt High Capacity 6800mAh,MOTOROLA SLR 5300 UHF 350-400MHZ,0.648085952,,motorola,0,1
+17,336,3,HT motolola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motolola High Power 10Watt High Capacity 6800mAh,"Motorola XiR P8200, 350-400Mhz",0.645770073,,motorola,0,1
+17,402,4,HT motolola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motolola High Power 10Watt High Capacity 6800mAh,Motorola MOTOTRBO XiR™ M8268,0.644758344,,motorola,0,1
+17,335,5,HT motolola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motolola High Power 10Watt High Capacity 6800mAh,"Motorola XiR P8260, 350-400Mhz",0.641308129,,motorola,0,1
+18,240,1,HT motorola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motorola GT-13 High Power 10Watt High Capacity 6800mAh,MOTOROLA SLR 5300 VHF 136-174MHZ,0.753624499,motorola,motorola,0,0
+18,164,2,HT motorola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motorola GT-13 High Power 10Watt High Capacity 6800mAh,Motorola XiR M3688 VHF 136-174 MHz,0.745776176,motorola,motorola,0,0
+18,239,3,HT motorola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motorola GT-13 High Power 10Watt High Capacity 6800mAh,MOTOROLA SLR 5300 UHF 350-400MHZ,0.741547048,motorola,motorola,0,0
+18,225,4,HT motorola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motorola GT-13 High Power 10Watt High Capacity 6800mAh,MOTOROLA SLR 5300 UHF 400-470MHZ,0.734758139,motorola,motorola,0,0
+18,168,5,HT motorola Two Way Radio Walkie Talkie Dual Band long range 10KM Original Motorola GT-13 High Power 10Watt High Capacity 6800mAh,Motorola XiR P3688 VHF (136-174 MHz),0.734653711,motorola,motorola,0,0
+19,80,1,[Memberikan Headphone]HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M3688,0.769972742,motorola,motorola,0,0
+19,77,2,[Memberikan Headphone]HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M3688,0.769972742,motorola,motorola,0,0
+19,100,3,[Memberikan Headphone]HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M6660,0.765309215,motorola,motorola,0,0
+19,85,4,[Memberikan Headphone]HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M6660,0.765309215,motorola,motorola,0,0
+19,49,5,[Memberikan Headphone]HT Motorola R7plus / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola TLK 110,0.763654232,motorola,motorola,0,0
+20,665,1,Motorola T66 Headphone khusus Hanya cocok untuk radio T66,Motorola XiR P6620i (403 - 438 MHz),0.723934591,motorola,motorola,0,0
+20,561,2,Motorola T66 Headphone khusus Hanya cocok untuk radio T66,Motorola XiR P6620i (403 - 438 MHz),0.723934591,motorola,motorola,0,0
+20,655,3,Motorola T66 Headphone khusus Hanya cocok untuk radio T66,Motorola XiR P6600i (403-438 MHz),0.712189078,motorola,motorola,0,0
+20,623,4,Motorola T66 Headphone khusus Hanya cocok untuk radio T66,Motorola XiR P6600i (403-438 MHz),0.712189078,motorola,motorola,0,0
+20,564,5,Motorola T66 Headphone khusus Hanya cocok untuk radio T66,Motorola XiR P6600i (403-438 MHz),0.712189078,motorola,motorola,0,0
+21,733,1,【4PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,KENWOOD NX-220 (136-174 MHz),0.521682978,,kenwood,0,1
+21,1057,2,【4PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,Hytera RD 968 UHF (400-470Mhz),0.5062778,,hytera,0,1
+21,689,3,【4PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,SOUNESS SNI-1575UT,0.502532005,,souness,0,1
+21,212,4,【4PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,WEIERWEI VEV-3288s,0.496223718,,weierwei,0,1
+21,214,5,【4PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,WEIERWEI UV-5R,0.496216536,,weierwei,0,1
+22,1228,1,[4unit]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.808377862,motorola,motorola,0,0
+22,39,2,[4unit]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.808377862,motorola,motorola,0,0
+22,120,3,[4unit]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M8668i VHF 136-174Mhz,0.807977259,motorola,motorola,0,0
+22,49,4,[4unit]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola TLK 110,0.807781041,motorola,motorola,0,0
+22,1188,5,[4unit]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2660,0.80585444,motorola,motorola,0,0
+23,932,1,HT Motorola T68 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,MOTOROLA SLR 5300,0.623566151,motorola,motorola,0,0
+23,1045,2,HT Motorola T68 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola SLR5300 (403 - 438 MHz),0.616094232,motorola,motorola,0,0
+23,983,3,HT Motorola T68 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola SLR 5300 VHF 136-174 MHz,0.616046071,motorola,motorola,0,0
+23,958,4,HT Motorola T68 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola SLR8000,0.615193546,motorola,motorola,0,0
+23,931,5,HT Motorola T68 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,MOTOROLA SLR5300,0.613685846,motorola,motorola,0,0
+24,402,1,HT Motorola GT-15 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola MOTOTRBO XiR™ M8268,0.61644423,motorola,motorola,0,0
+24,563,2,HT Motorola GT-15 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola Mototrbo XiR P6600i ( 136-174 MHz ),0.596983969,motorola,motorola,0,0
+24,403,3,HT Motorola GT-15 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola MOTOTRBO XiR™ P8268,0.595615864,motorola,motorola,0,0
+24,638,4,HT Motorola GT-15 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support Fast Charging Ideal for Large Areas Like Palm Tree Farms,"Motorola XiR E8600i, 350-400 MHz",0.583628356,motorola,motorola,0,0
+24,670,5,HT Motorola GT-15 IP68 Tahan Air Walkie-Talkie with 20KM Range and Full Band Support Fast Charging Ideal for Large Areas Like Palm Tree Farms,Motorola XiR P6600i (136-174 MHz),0.583515644,motorola,motorola,0,0
+25,638,1,mini HT Walkie-Talkie MOTOROLA C16 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.682361007,motorola,motorola,0,0
+25,675,2,mini HT Walkie-Talkie MOTOROLA C16 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350 - 400 MHz),0.678439617,motorola,motorola,0,0
+25,670,3,mini HT Walkie-Talkie MOTOROLA C16 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (136-174 MHz),0.678100467,motorola,motorola,0,0
+25,767,4,mini HT Walkie-Talkie MOTOROLA C16 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.672634482,motorola,motorola,0,0
+25,652,5,mini HT Walkie-Talkie MOTOROLA C16 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P8600i (136-174 Mhz),0.672049522,motorola,motorola,0,0
+26,638,1,[2 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.651094019,motorola,motorola,0,0
+26,767,2,[2 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.649281502,motorola,motorola,0,0
+26,675,3,[2 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350 - 400 MHz),0.645967126,motorola,motorola,0,0
+26,819,4,[2 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XTS 2500 Model III (800 Mhz),0.64536643,motorola,motorola,0,0
+26,805,5,[2 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350-400 Mhz),0.645365596,motorola,motorola,0,0
+27,218,1,Motolola HT Walkie Talkie Mini Jarak jauh 15KM Walky Talky Dual band Ganda PTT Saluran 199 Kekuatan tinggi,Voxter U55,0.585146189,,voxter,0,1
+27,216,2,Motolola HT Walkie Talkie Mini Jarak jauh 15KM Walky Talky Dual band Ganda PTT Saluran 199 Kekuatan tinggi,Yaesu VX6R,0.560117781,,yaesu,0,1
+27,1209,3,Motolola HT Walkie Talkie Mini Jarak jauh 15KM Walky Talky Dual band Ganda PTT Saluran 199 Kekuatan tinggi,talkcom TC-698S,0.548075557,,talkcom,0,1
+27,20,4,Motolola HT Walkie Talkie Mini Jarak jauh 15KM Walky Talky Dual band Ganda PTT Saluran 199 Kekuatan tinggi,talkcom TC-698S,0.548075557,,talkcom,0,1
+27,271,5,Motolola HT Walkie Talkie Mini Jarak jauh 15KM Walky Talky Dual band Ganda PTT Saluran 199 Kekuatan tinggi,Yaesu FT-25R,0.54511404,,yaesu,0,1
+28,553,1,[Beli 1 Mengirim]mini HT Walkie-Talkie MOTOLOLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,KIRISUN DP990 (400-470 MHz),0.613561571,,kirisun,0,1
+28,767,2,[Beli 1 Mengirim]mini HT Walkie-Talkie MOTOLOLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.608481169,,motorola,0,1
+28,858,3,[Beli 1 Mengirim]mini HT Walkie-Talkie MOTOLOLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600, 350-400 Mhz",0.608090639,,motorola,0,1
+28,537,4,[Beli 1 Mengirim]mini HT Walkie-Talkie MOTOLOLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,KIRISUN T350,0.607226372,,kirisun,0,1
+28,755,5,[Beli 1 Mengirim]mini HT Walkie-Talkie MOTOLOLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600, 136-174 Mhz",0.607040405,,motorola,0,1
+29,983,1,HT Motorola T66 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola SLR 5300 VHF 136-174 MHz,0.616225898,motorola,motorola,0,0
+29,932,2,HT Motorola T66 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,MOTOROLA SLR 5300,0.611207366,motorola,motorola,0,0
+29,1045,3,HT Motorola T66 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola SLR5300 (403 - 438 MHz),0.610145867,motorola,motorola,0,0
+29,969,4,HT Motorola T66 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola SLR 5300 (136-174 MHz),0.608096182,motorola,motorola,0,0
+29,164,5,HT Motorola T66 POC GLOBAL OSAKA SIMCARD PERMANEN WALKIE TALKIE,Motorola XiR M3688 VHF 136-174 MHz,0.606866241,motorola,motorola,0,0
+30,49,1,[Memberikan Headphone]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola TLK 110,0.775930703,motorola,motorola,0,0
+30,1228,2,[Memberikan Headphone]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.775376797,motorola,motorola,0,0
+30,39,3,[Memberikan Headphone]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,MOTOROLA XiR C2620,0.775376797,motorola,motorola,0,0
+30,80,4,[Memberikan Headphone]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M3688,0.775339365,motorola,motorola,0,0
+30,77,5,[Memberikan Headphone]HT Motorola GP308 / MOTOROLA Handy Talky Radio HT/ 10Watt IP54 9800MaH Antena Radio HT TWO WAY Radio HT Walkie Talkie Walky,Motorola XiR M3688,0.775339365,motorola,motorola,0,0
+31,644,1,[Memberikan Headphone]mini HT Walkie-Talkie MOTOROLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola MTP6650 (350-470 MHz),0.621688664,motorola,motorola,0,0
+31,767,2,[Memberikan Headphone]mini HT Walkie-Talkie MOTOROLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.620979309,motorola,motorola,0,0
+31,805,3,[Memberikan Headphone]mini HT Walkie-Talkie MOTOROLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350-400 Mhz),0.620710135,motorola,motorola,0,0
+31,638,4,[Memberikan Headphone]mini HT Walkie-Talkie MOTOROLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.620646894,motorola,motorola,0,0
+31,742,5,[Memberikan Headphone]mini HT Walkie-Talkie MOTOROLA Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola CP1660 (350-390 Mhz),0.619930029,motorola,motorola,0,0
+32,339,1,Original TR-1 TR-2 Walkie-Talkie Antenna High Gain Dual Band Extendable Antenna UHF/VHF Antenna,Vertex Standard VZ-88-D0-5  (VHF : 136-174 MHz),0.637321949,,vertex standard,0,1
+32,157,2,Original TR-1 TR-2 Walkie-Talkie Antenna High Gain Dual Band Extendable Antenna UHF/VHF Antenna,Pofung BF/PF - UV82,0.632047892,,pofung,0,1
+32,53,3,Original TR-1 TR-2 Walkie-Talkie Antenna High Gain Dual Band Extendable Antenna UHF/VHF Antenna,Pofung BF/PF - UV82,0.632047892,,pofung,0,1
+32,156,4,Original TR-1 TR-2 Walkie-Talkie Antenna High Gain Dual Band Extendable Antenna UHF/VHF Antenna,Pofung BF/PF-UV5R,0.619522274,,pofung,0,1
+32,59,5,Original TR-1 TR-2 Walkie-Talkie Antenna High Gain Dual Band Extendable Antenna UHF/VHF Antenna,Pofung BF/PF-UV5R,0.619522274,,pofung,0,1
+33,733,1,【6PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,KENWOOD NX-220 (136-174 MHz),0.517942429,,kenwood,0,1
+33,1057,2,【6PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,Hytera RD 968 UHF (400-470Mhz),0.498680264,,hytera,0,1
+33,689,3,【6PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,SOUNESS SNI-1575UT,0.497137189,,souness,0,1
+33,212,4,【6PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,WEIERWEI VEV-3288s,0.49038741,,weierwei,0,1
+33,214,5,【6PCS】BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,WEIERWEI UV-5R,0.489479661,,weierwei,0,1
+34,638,1,[2 PCS]mini HT Walkie-Talkie MOTOROLA M3 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.636529088,motorola,motorola,0,0
+34,767,2,[2 PCS]mini HT Walkie-Talkie MOTOROLA M3 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.634729683,motorola,motorola,0,0
+34,675,3,[2 PCS]mini HT Walkie-Talkie MOTOROLA M3 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350 - 400 MHz),0.633336663,motorola,motorola,0,0
+34,819,4,[2 PCS]mini HT Walkie-Talkie MOTOROLA M3 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XTS 2500 Model III (800 Mhz),0.633124232,motorola,motorola,0,0
+34,805,5,[2 PCS]mini HT Walkie-Talkie MOTOROLA M3 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350-400 Mhz),0.63308692,motorola,motorola,0,0
+35,240,1,HT motolola Two Way Radio Walkie Talkie Dual Band long range 20KM Original Motorola High Power 20Watt High Capacity 6800mAh,MOTOROLA SLR 5300 VHF 136-174MHZ,0.730226159,motorola,motorola,0,0
+35,239,2,HT motolola Two Way Radio Walkie Talkie Dual Band long range 20KM Original Motorola High Power 20Watt High Capacity 6800mAh,MOTOROLA SLR 5300 UHF 350-400MHZ,0.728808761,motorola,motorola,0,0
+35,336,3,HT motolola Two Way Radio Walkie Talkie Dual Band long range 20KM Original Motorola High Power 20Watt High Capacity 6800mAh,"Motorola XiR P8200, 350-400Mhz",0.717882395,motorola,motorola,0,0
+35,402,4,HT motolola Two Way Radio Walkie Talkie Dual Band long range 20KM Original Motorola High Power 20Watt High Capacity 6800mAh,Motorola MOTOTRBO XiR™ M8268,0.715701461,motorola,motorola,0,0
+35,225,5,HT motolola Two Way Radio Walkie Talkie Dual Band long range 20KM Original Motorola High Power 20Watt High Capacity 6800mAh,MOTOROLA SLR 5300 UHF 400-470MHZ,0.713979423,motorola,motorola,0,0
+36,638,1,mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.696923137,motorola,motorola,0,0
+36,767,2,mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.692799091,motorola,motorola,0,0
+36,719,3,mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola ST7000 (800 Mhz),0.690265059,motorola,motorola,0,0
+36,755,4,mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600, 136-174 Mhz",0.688835919,motorola,motorola,0,0
+36,858,5,mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600, 350-400 Mhz",0.688244343,motorola,motorola,0,0
+37,733,1,BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,KENWOOD NX-220 (136-174 MHz),0.522232294,,kenwood,0,1
+37,689,2,BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,SOUNESS SNI-1575UT,0.519053996,,souness,0,1
+37,688,3,BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,SOUNESS SNI-1577UT,0.510217071,,souness,0,1
+37,212,4,BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,WEIERWEI VEV-3288s,0.506762028,,weierwei,0,1
+37,214,5,BF 888s Walkie Talkie Jarak Jauh 10km(Max) 2800mAH HT Wlan UHF 2 Units Handy Talky Waterproof Portable With Charger / Headset,WEIERWEI UV-5R,0.504205287,,weierwei,0,1
+38,675,1,[6 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350 - 400 MHz),0.670222223,motorola,motorola,0,0
+38,638,2,[6 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.670070529,motorola,motorola,0,0
+38,805,3,[6 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350-400 Mhz),0.669142604,motorola,motorola,0,0
+38,767,4,[6 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.668088019,motorola,motorola,0,0
+38,804,5,[6 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (136-174 Mhz),0.665913463,motorola,motorola,0,0
+39,638,1,[4 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600i, 350-400 MHz",0.675105214,motorola,motorola,0,0
+39,767,2,[4 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR E8600i (350-400 Mhz),0.672565579,motorola,motorola,0,0
+39,675,3,[4 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350 - 400 MHz),0.67087698,motorola,motorola,0,0
+39,805,4,[4 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,Motorola XiR P6600i (350-400 Mhz),0.670002818,motorola,motorola,0,0
+39,858,5,[4 PCS]mini HT Walkie-Talkie MOTOROLA M8 Baterai 9800mAh 120 hours standby radio 400-470MHZ Portable walkie-talkie,"Motorola XiR E8600, 350-400 Mhz",0.665667474,motorola,motorola,0,0
+40,176,1,CASING HT FIRTSCOM FC 27,Firstcom FC-21R,0.592770338,,firstcom,0,1
+40,178,2,CASING HT FIRTSCOM FC 27,Firstcom FC-28R,0.577454567,,firstcom,0,1
+40,177,3,CASING HT FIRTSCOM FC 27,Firstcom FC-136R,0.522590876,,firstcom,0,1
+40,175,4,CASING HT FIRTSCOM FC 27,Firstcom FC-77R,0.516932011,,firstcom,0,1
+40,1297,5,CASING HT FIRTSCOM FC 27,Sunnada WR-ICS-1910/40A/BW10Q1985V7.0,0.483212352,,sunnada,0,1
+41,1078,1,BATTERY HT FIRSCOM TYPE FC27,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.574109375,,simoco,0,1
+41,960,2,BATTERY HT FIRSCOM TYPE FC27,Simoco SimocoXd/SDB680 136-174 MHz 50 Watt,0.573400021,,simoco,0,1
+41,1071,3,BATTERY HT FIRSCOM TYPE FC27,Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.569467843,,hytera,0,1
+41,1080,4,BATTERY HT FIRSCOM TYPE FC27,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.557994604,,hytera,0,1
+41,1069,5,BATTERY HT FIRSCOM TYPE FC27,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.557994485,,hytera,0,1
+42,981,1,BATTERY HT MOTOROLA GP2000 NICAD,Motorola SLR 5300 UHF 400-470 MHz,0.651134729,motorola,motorola,0,0
+42,997,2,BATTERY HT MOTOROLA GP2000 NICAD,Motorola SLR 5300 (410 -430 Mhz),0.648390532,motorola,motorola,0,0
+42,1045,3,BATTERY HT MOTOROLA GP2000 NICAD,Motorola SLR5300 (403 - 438 MHz),0.63802731,motorola,motorola,0,0
+42,968,4,BATTERY HT MOTOROLA GP2000 NICAD,Motorola SLR 5300 (400-470 MHz),0.637183368,motorola,motorola,0,0
+42,983,5,BATTERY HT MOTOROLA GP2000 NICAD,Motorola SLR 5300 VHF 136-174 MHz,0.635126233,motorola,motorola,0,0
+43,960,1,BATTERY HT ALINCO TYPE EBP 88 DJ W10/DJ A10,Simoco SimocoXd/SDB680 136-174 MHz 50 Watt,0.659956932,alinco,simoco,0,0
+43,1071,2,BATTERY HT ALINCO TYPE EBP 88 DJ W10/DJ A10,Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.644486248,alinco,hytera,0,0
+43,1057,3,BATTERY HT ALINCO TYPE EBP 88 DJ W10/DJ A10,Hytera RD 968 UHF (400-470Mhz),0.630577862,alinco,hytera,0,0
+43,1078,4,BATTERY HT ALINCO TYPE EBP 88 DJ W10/DJ A10,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.628502488,alinco,simoco,0,0
+43,232,5,BATTERY HT ALINCO TYPE EBP 88 DJ W10/DJ A10,Alinco DJ-VX50,0.619191408,alinco,alinco,0,0
+44,947,1,HT MERK WOUXUN TYPE  9D UPGRADE 7 BAND,Comba RX-7839,0.591679037,wouxun,comba,0,0
+44,1014,2,HT MERK WOUXUN TYPE  9D UPGRADE 7 BAND,Comba RX-7839,0.574855685,wouxun,comba,0,0
+44,1129,3,HT MERK WOUXUN TYPE  9D UPGRADE 7 BAND,Huaptec DS20T-GDW,0.565130651,wouxun,huaptec,0,0
+44,1241,4,HT MERK WOUXUN TYPE  9D UPGRADE 7 BAND,COMBA RX-5239,0.559397876,wouxun,comba,0,0
+44,912,5,HT MERK WOUXUN TYPE  9D UPGRADE 7 BAND,COMCELL CC0918,0.555733204,wouxun,comcell,0,0
+45,441,1,HT MERK HYT TYPE TC-508 VHF 136-174 MHZ SINGLEBAND,"HYT TC-600U (5), Freq. 350-370 MHz",0.825681508,hyt,hyt,0,0
+45,411,2,HT MERK HYT TYPE TC-508 VHF 136-174 MHZ SINGLEBAND,HY-E SH-135 Enhanced  ( VHF: 136 - 174 MHz),0.819587111,hyt,hy-e,0,0
+45,438,3,HT MERK HYT TYPE TC-508 VHF 136-174 MHZ SINGLEBAND,"HQT TH-2000 (U5), Freq. 350-390 MHz",0.812337518,hyt,hqt,0,0
+45,753,4,HT MERK HYT TYPE TC-508 VHF 136-174 MHZ SINGLEBAND,HYT By Hytera TC 518 UHF (350-390 MHz),0.81147635,hyt,hyt by hytera,0,0
+45,392,5,HT MERK HYT TYPE TC-508 VHF 136-174 MHZ SINGLEBAND,HY-E SH-835 Freq. 136-174 MHz,0.809888124,hyt,hy-e,0,0
+46,232,1,HT MERK ALINCO TYPE DJ-18 VHF 136-174 MHZ SINGLE BAND,Alinco DJ-VX50,0.73010838,alinco,alinco,0,0
+46,233,2,HT MERK ALINCO TYPE DJ-18 VHF 136-174 MHZ SINGLE BAND,Alinco DJ-VX10,0.725862741,alinco,alinco,0,0
+46,360,3,HT MERK ALINCO TYPE DJ-18 VHF 136-174 MHZ SINGLE BAND,Alinco Dual Band Transceiver / DR-635 (VHF 144-147 MHz dan UHF 400 - 430 MHz),0.719922543,alinco,alinco,0,0
+46,1264,4,HT MERK ALINCO TYPE DJ-18 VHF 136-174 MHZ SINGLE BAND,KENWOOD NXR-810,0.701475859,alinco,kenwood,0,0
+46,536,5,HT MERK ALINCO TYPE DJ-18 VHF 136-174 MHZ SINGLE BAND,Simoco SimocoXd/SDP760 (136-174 MHz,0.700658321,alinco,simoco,0,0
+47,413,1,HT MERK ICOM TYPE IC-V88 SINGELBAND,ICOM VHF Air Band Transceiver / IC-A210,0.702740192,icom,icom,0,0
+47,419,2,HT MERK ICOM TYPE IC-V88 SINGELBAND,ICOM IC-V80 LM Version (Freq. 136-174 MHz),0.686911464,icom,icom,0,0
+47,205,3,HT MERK ICOM TYPE IC-V88 SINGELBAND,ICOM IC-V80 (Freq. 136-174 MHz),0.684075952,icom,icom,0,0
+47,72,4,HT MERK ICOM TYPE IC-V88 SINGELBAND,ICOM IC-V88,0.680690646,icom,icom,1,0
+47,204,5,HT MERK ICOM TYPE IC-V88 SINGELBAND,ICOM IC-V86,0.668517709,icom,icom,0,0
+48,412,1,HT MERK ICOM TYPE IC M-36 MARINE VHF,ICOM VHF Marine Transceiver / IC-M422,0.762348533,icom,icom,0,0
+48,395,2,HT MERK ICOM TYPE IC M-36 MARINE VHF,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.726005256,icom,icom,0,0
+48,286,3,HT MERK ICOM TYPE IC M-36 MARINE VHF,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.726005256,icom,icom,0,0
+48,314,4,HT MERK ICOM TYPE IC M-36 MARINE VHF,ICOM VHF Marine Transceiver / IC-M504 (Freq. 156.025 - 163.275 MHz),0.721790552,icom,icom,0,0
+48,413,5,HT MERK ICOM TYPE IC M-36 MARINE VHF,ICOM VHF Air Band Transceiver / IC-A210,0.61559844,icom,icom,0,0
+49,1130,1,HT MERK WEIRWEI TYPE UV9 TRI,Hytera RD968 VHF (136-174 Mhz.),0.639744639,,hytera,0,1
+49,1159,2,HT MERK WEIRWEI TYPE UV9 TRI,Grentech SGR-R3C0 / RF /B1/40/MY/ID/TS/0075,0.627474666,,grentech,0,1
+49,1161,3,HT MERK WEIRWEI TYPE UV9 TRI,Grentech SGR-R3C0 / RF/B1/33/MY/ID/TS/0154,0.627415657,,grentech,0,1
+49,1160,4,HT MERK WEIRWEI TYPE UV9 TRI,Grentech SGR-R3C0 / RF/B1/43/MY/ID/TS/0155,0.627093375,,grentech,0,1
+49,1297,5,HT MERK WEIRWEI TYPE UV9 TRI,Sunnada WR-ICS-1910/40A/BW10Q1985V7.0,0.625791907,,sunnada,0,1
+50,929,1,HT MERK MOTOROLA TYPE XIR-P3688 UHF LOW 350-400MHZ SINGLE BAND,Motorola SLR 5300,0.774104238,motorola,motorola,0,0
+50,982,2,HT MERK MOTOROLA TYPE XIR-P3688 UHF LOW 350-400MHZ SINGLE BAND,Motorola SLR 5300 UHF 350-400 MHz,0.770208836,motorola,motorola,0,0
+50,930,3,HT MERK MOTOROLA TYPE XIR-P3688 UHF LOW 350-400MHZ SINGLE BAND,Motorola SLR 5300,0.768588245,motorola,motorola,0,0
+50,926,4,HT MERK MOTOROLA TYPE XIR-P3688 UHF LOW 350-400MHZ SINGLE BAND,Motorola SLR 5300,0.768235922,motorola,motorola,0,0
+50,983,5,HT MERK MOTOROLA TYPE XIR-P3688 UHF LOW 350-400MHZ SINGLE BAND,Motorola SLR 5300 VHF 136-174 MHz,0.767014444,motorola,motorola,0,0
+51,913,1,BATTERY HT TYPE ALINCO CRX5/CRX1 EB-92,Motorola SLR8000,0.558806896,alinco,motorola,0,0
+51,960,2,BATTERY HT TYPE ALINCO CRX5/CRX1 EB-92,Simoco SimocoXd/SDB680 136-174 MHz 50 Watt,0.558180928,alinco,simoco,0,0
+51,1062,3,BATTERY HT TYPE ALINCO CRX5/CRX1 EB-92,"MOTOROLA MTR3000, 800Mhz ( TX: 851-870 Mhz, RX: 806-825 Mhz )",0.553555131,alinco,motorola,0,0
+51,1156,4,BATTERY HT TYPE ALINCO CRX5/CRX1 EB-92,ICOM IC-FR5000,0.552644014,alinco,icom,0,0
+51,1134,5,BATTERY HT TYPE ALINCO CRX5/CRX1 EB-92,ICOM IC-FR5000,0.552643895,alinco,icom,0,0
+52,983,1,HT MERK MOTOROLA TYPE CP-1660 SINGEL BAND VHF 136-174 MHZ,Motorola SLR 5300 VHF 136-174 MHz,0.784888387,motorola,motorola,0,0
+52,969,2,HT MERK MOTOROLA TYPE CP-1660 SINGEL BAND VHF 136-174 MHZ,Motorola SLR 5300 (136-174 MHz),0.759555697,motorola,motorola,0,0
+52,1046,3,HT MERK MOTOROLA TYPE CP-1660 SINGEL BAND VHF 136-174 MHZ,Motorola SLR 5300 (136 - 174 MHz),0.757205725,motorola,motorola,0,0
+52,930,4,HT MERK MOTOROLA TYPE CP-1660 SINGEL BAND VHF 136-174 MHZ,Motorola SLR 5300,0.756535113,motorola,motorola,0,0
+52,369,5,HT MERK MOTOROLA TYPE CP-1660 SINGEL BAND VHF 136-174 MHZ,Motorola GM 3188 VHF 146-174 MHz,0.750020504,motorola,motorola,0,0
+53,413,1,HT MERK ICOM TYPE IC-V80 SINGEL BAND,ICOM VHF Air Band Transceiver / IC-A210,0.716425419,icom,icom,0,0
+53,419,2,HT MERK ICOM TYPE IC-V80 SINGEL BAND,ICOM IC-V80 LM Version (Freq. 136-174 MHz),0.686970353,icom,icom,0,0
+53,205,3,HT MERK ICOM TYPE IC-V80 SINGEL BAND,ICOM IC-V80 (Freq. 136-174 MHz),0.683940768,icom,icom,0,0
+53,204,4,HT MERK ICOM TYPE IC-V80 SINGEL BAND,ICOM IC-V86,0.671139002,icom,icom,0,0
+53,128,5,HT MERK ICOM TYPE IC-V80 SINGEL BAND,ICOM IC-V86,0.671139002,icom,icom,0,0
+54,536,1,BATTERYHT BAOFENG 6R ATAU WEIRCOM UV5758 ATAU SOSIN CH688 ATAU SPC10,Simoco SimocoXd/SDP760 (136-174 MHz,0.66762352,baofeng,simoco,0,0
+54,913,2,BATTERYHT BAOFENG 6R ATAU WEIRCOM UV5758 ATAU SOSIN CH688 ATAU SPC10,Motorola SLR8000,0.666744649,baofeng,motorola,0,0
+54,936,3,BATTERYHT BAOFENG 6R ATAU WEIRCOM UV5758 ATAU SOSIN CH688 ATAU SPC10,Motorola SLR 5300,0.66358912,baofeng,motorola,0,0
+54,1078,4,BATTERYHT BAOFENG 6R ATAU WEIRCOM UV5758 ATAU SOSIN CH688 ATAU SPC10,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.662135184,baofeng,simoco,0,0
+54,934,5,BATTERYHT BAOFENG 6R ATAU WEIRCOM UV5758 ATAU SOSIN CH688 ATAU SPC10,Motorola SLR8000,0.658755302,baofeng,motorola,0,0
+55,214,1,HT MERK YAESU TYPE UX-6R DUAL SINGELBAND,WEIERWEI UV-5R,0.662052631,yaesu,weierwei,0,0
+55,363,2,HT MERK YAESU TYPE UX-6R DUAL SINGELBAND,Yaesu FT-7900R/E,0.659076631,yaesu,yaesu,0,0
+55,362,3,HT MERK YAESU TYPE UX-6R DUAL SINGELBAND,Yaesu FT-2900R/E,0.65540421,yaesu,yaesu,0,0
+55,92,4,HT MERK YAESU TYPE UX-6R DUAL SINGELBAND,WEIERWEI UV-5R,0.653800011,yaesu,weierwei,0,0
+55,271,5,HT MERK YAESU TYPE UX-6R DUAL SINGELBAND,Yaesu FT-25R,0.649704397,yaesu,yaesu,0,0
+56,65,1,HT BAOFENG TYPE BF-A58 WATERPROOF DUALBAND,BAOFENG BF-H6,0.610321105,baofeng,baofeng,0,0
+56,144,2,HT BAOFENG TYPE BF-A58 WATERPROOF DUALBAND,Baofeng BF-A58,0.587968111,baofeng,baofeng,1,0
+56,1202,3,HT BAOFENG TYPE BF-A58 WATERPROOF DUALBAND,Baofeng BF-A58,0.585357428,baofeng,baofeng,1,0
+56,13,4,HT BAOFENG TYPE BF-A58 WATERPROOF DUALBAND,Baofeng BF-A58,0.585357428,baofeng,baofeng,1,0
+56,247,5,HT BAOFENG TYPE BF-A58 WATERPROOF DUALBAND,Baofeng BF - 5RC,0.571920514,baofeng,baofeng,0,0
+57,411,1,HT MERK RAFION TYPE RT-18 VHF 136-174 MHZ SINGLEBAND,HY-E SH-135 Enhanced  ( VHF: 136 - 174 MHz),0.752678216,,hy-e,0,1
+57,392,2,HT MERK RAFION TYPE RT-18 VHF 136-174 MHZ SINGLEBAND,HY-E SH-835 Freq. 136-174 MHz,0.750657439,,hy-e,0,1
+57,390,3,HT MERK RAFION TYPE RT-18 VHF 136-174 MHZ SINGLEBAND,LDT 800 (VHF Frek. 135-174 MHz),0.74771446,,ldt,0,1
+57,268,4,HT MERK RAFION TYPE RT-18 VHF 136-174 MHZ SINGLEBAND,WEIERWEI VEV-V17 VHF/UHF (136-174 Mhz dan 430-432),0.745711744,,weierwei,0,1
+57,438,5,HT MERK RAFION TYPE RT-18 VHF 136-174 MHZ SINGLEBAND,"HQT TH-2000 (U5), Freq. 350-390 MHz",0.742894351,,hqt,0,1
+58,155,1,HT MERK WEIRWEI V-16 DUALBAND,Weierwei VEV-16,0.695767164,,weierwei,0,1
+58,48,2,HT MERK WEIRWEI V-16 DUALBAND,WEIERWEI VEV-16,0.695767164,,weierwei,0,1
+58,212,3,HT MERK WEIRWEI V-16 DUALBAND,WEIERWEI VEV-3288s,0.691273928,,weierwei,0,1
+58,264,4,HT MERK WEIRWEI V-16 DUALBAND,Weierwei VEV-16,0.686216474,,weierwei,0,1
+58,166,5,HT MERK WEIRWEI V-16 DUALBAND,WEIERWEI VEV-3288s,0.670703769,,weierwei,0,1
+59,172,1,KLIP HT BAOFENG UV5R WEIRCOM,Baofeng Baofeng / BF-UV5R,0.717739284,baofeng,baofeng,0,0
+59,71,2,KLIP HT BAOFENG UV5R WEIRCOM,Baofeng BF-UV5R,0.686003208,baofeng,baofeng,0,0
+59,242,3,KLIP HT BAOFENG UV5R WEIRCOM,Baofeng UV-5RE,0.67191726,baofeng,baofeng,0,0
+59,65,4,KLIP HT BAOFENG UV5R WEIRCOM,BAOFENG BF-H6,0.638750196,baofeng,baofeng,0,0
+59,246,5,KLIP HT BAOFENG UV5R WEIRCOM,Baofeng UV - 5R,0.633656144,baofeng,baofeng,1,0
+60,158,1,HT MERK REDEL TYPE DL-9108 DUALBAND,REDELL DL-9900,0.743192255,,redell,0,1
+60,151,2,HT MERK REDEL TYPE DL-9108 DUALBAND,REDELL DL-9108,0.737135947,,redell,0,1
+60,360,3,HT MERK REDEL TYPE DL-9108 DUALBAND,Alinco Dual Band Transceiver / DR-635 (VHF 144-147 MHz dan UHF 400 - 430 MHz),0.730306387,,alinco,0,1
+60,220,4,HT MERK REDEL TYPE DL-9108 DUALBAND,REDELL DL-7108 VHF: 136-174 MHz UHF: 400-440 MHz UHF: 330-390 MHz,0.715404749,,redell,0,1
+60,35,5,HT MERK REDEL TYPE DL-9108 DUALBAND,REDELL DL-9900,0.704641521,,redell,0,1
+61,214,1,HT MERK WEIRWEI TYPE UV5R DUALBAND,WEIERWEI UV-5R,0.76052475,,weierwei,0,1
+61,92,2,HT MERK WEIRWEI TYPE UV5R DUALBAND,WEIERWEI UV-5R,0.755395174,,weierwei,0,1
+61,181,3,HT MERK WEIRWEI TYPE UV5R DUALBAND,WEIERWEI VEV - UV8200WP,0.700829923,,weierwei,0,1
+61,212,4,HT MERK WEIRWEI TYPE UV5R DUALBAND,WEIERWEI VEV-3288s,0.691467404,,weierwei,0,1
+61,213,5,HT MERK WEIRWEI TYPE UV5R DUALBAND,WEIERWEI CY-8800,0.676751852,,weierwei,0,1
+62,412,1,HT ALINCO VHF MARINE DJ-MX1,ICOM VHF Marine Transceiver / IC-M422,0.719940126,alinco,icom,0,0
+62,233,2,HT ALINCO VHF MARINE DJ-MX1,Alinco DJ-VX10,0.711375356,alinco,alinco,0,0
+62,314,3,HT ALINCO VHF MARINE DJ-MX1,ICOM VHF Marine Transceiver / IC-M504 (Freq. 156.025 - 163.275 MHz),0.701284587,alinco,icom,0,0
+62,232,4,HT ALINCO VHF MARINE DJ-MX1,Alinco DJ-VX50,0.700656772,alinco,alinco,0,0
+62,395,5,HT ALINCO VHF MARINE DJ-MX1,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.693639398,alinco,icom,0,0
+63,317,1,HT MERK FIRSTCOM TYPE FC 27 DUALBAND,FIRSTCOM FC-04G (400-438 MHz),0.735313475,firstcom,firstcom,0,0
+63,386,2,HT MERK FIRSTCOM TYPE FC 27 DUALBAND,FIRSTCOM FC-128 ( VHF : 134-176 MHz ),0.721466422,firstcom,firstcom,0,0
+63,387,3,HT MERK FIRSTCOM TYPE FC 27 DUALBAND,FIRSTCOM FC-428 ( UHF : 400 - 438 MHz ),0.716169655,firstcom,firstcom,0,0
+63,416,4,HT MERK FIRSTCOM TYPE FC 27 DUALBAND,FIRSTCOM Professional Handy Transceiver / FC-U08 Freq. 400-430MHz,0.709982395,firstcom,firstcom,0,0
+63,177,5,HT MERK FIRSTCOM TYPE FC 27 DUALBAND,Firstcom FC-136R,0.700134814,firstcom,firstcom,0,0
+64,1223,1,HT MERK WEIRCOM TYPE UV-5758 DUALBAND,WEIRCOM WR-808,0.718608022,weircom,weircom,0,0
+64,34,2,HT MERK WEIRCOM TYPE UV-5758 DUALBAND,WEIRCOM WR-808,0.718608022,weircom,weircom,0,0
+64,291,3,HT MERK WEIRCOM TYPE UV-5758 DUALBAND,JACOM JACOM JC-668 VHF 136-174Mhz,0.689777255,weircom,jacom,0,0
+64,360,4,HT MERK WEIRCOM TYPE UV-5758 DUALBAND,Alinco Dual Band Transceiver / DR-635 (VHF 144-147 MHz dan UHF 400 - 430 MHz),0.682177365,weircom,alinco,0,0
+64,36,5,HT MERK WEIRCOM TYPE UV-5758 DUALBAND,WEIRCOM WR808,0.681797147,weircom,weircom,0,0
+65,214,1,HT MERK WEIRWEI UV-6R DUAL BAND,WEIERWEI UV-5R,0.725610852,,weierwei,0,1
+65,92,2,HT MERK WEIRWEI UV-6R DUAL BAND,WEIERWEI UV-5R,0.720915556,,weierwei,0,1
+65,166,3,HT MERK WEIRWEI UV-6R DUAL BAND,WEIERWEI VEV-3288s,0.669848919,,weierwei,0,1
+65,181,4,HT MERK WEIRWEI UV-6R DUAL BAND,WEIERWEI VEV - UV8200WP,0.661024511,,weierwei,0,1
+65,212,5,HT MERK WEIRWEI UV-6R DUAL BAND,WEIERWEI VEV-3288s,0.660913527,,weierwei,0,1
+66,954,1,HT MERK BAOFENG TYPE GT-3TP TRI POWER 8WATT DUALBAND,Ruijie RG-EW1200R,0.67424643,baofeng,ruijie,0,0
+66,1166,2,HT MERK BAOFENG TYPE GT-3TP TRI POWER 8WATT DUALBAND,Grentech SGR-Z-SG200 RO,0.650813639,baofeng,grentech,0,0
+66,161,3,HT MERK BAOFENG TYPE GT-3TP TRI POWER 8WATT DUALBAND,Baofeng GT-3TP Mark III,0.644036531,baofeng,baofeng,0,0
+66,56,4,HT MERK BAOFENG TYPE GT-3TP TRI POWER 8WATT DUALBAND,BAOFENG GT-3TP Mark III,0.644036531,baofeng,baofeng,0,0
+66,1165,5,HT MERK BAOFENG TYPE GT-3TP TRI POWER 8WATT DUALBAND,Grentech SGR-Z-SG201,0.637905836,baofeng,grentech,0,0
+67,1218,1,HT MERK BAOFENG TYPE BF-888S SINGELBAND UHF 400-470 MHZ,BAOFENG BF-888S,0.753605604,baofeng,baofeng,1,0
+67,142,2,HT MERK BAOFENG TYPE BF-888S SINGELBAND UHF 400-470 MHZ,Baofeng BF-888S,0.753605604,baofeng,baofeng,1,0
+67,29,3,HT MERK BAOFENG TYPE BF-888S SINGELBAND UHF 400-470 MHZ,BAOFENG BF-888S,0.753605604,baofeng,baofeng,1,0
+67,144,4,HT MERK BAOFENG TYPE BF-888S SINGELBAND UHF 400-470 MHZ,Baofeng BF-A58,0.732031703,baofeng,baofeng,0,0
+67,65,5,HT MERK BAOFENG TYPE BF-888S SINGELBAND UHF 400-470 MHZ,BAOFENG BF-H6,0.729958653,baofeng,baofeng,0,0
+68,360,1,HT MERK REDEL TYPE DL-5108 DUALBAND,Alinco Dual Band Transceiver / DR-635 (VHF 144-147 MHz dan UHF 400 - 430 MHz),0.723432422,,alinco,0,1
+68,151,2,HT MERK REDEL TYPE DL-5108 DUALBAND,REDELL DL-9108,0.721339345,,redell,0,1
+68,158,3,HT MERK REDEL TYPE DL-5108 DUALBAND,REDELL DL-9900,0.716308177,,redell,0,1
+68,215,4,HT MERK REDEL TYPE DL-5108 DUALBAND,REDELL DL-5108,0.707289159,,redell,0,1
+68,220,5,HT MERK REDEL TYPE DL-5108 DUALBAND,REDELL DL-7108 VHF: 136-174 MHz UHF: 400-440 MHz UHF: 330-390 MHz,0.706562161,,redell,0,1
+69,232,1,HT MERK ALINCO TUPE DJ-W58 DUALBAND,Alinco DJ-VX50,0.815784216,alinco,alinco,0,0
+69,233,2,HT MERK ALINCO TUPE DJ-W58 DUALBAND,Alinco DJ-VX10,0.803120136,alinco,alinco,0,0
+69,360,3,HT MERK ALINCO TUPE DJ-W58 DUALBAND,Alinco Dual Band Transceiver / DR-635 (VHF 144-147 MHz dan UHF 400 - 430 MHz),0.732841015,alinco,alinco,0,0
+69,419,4,HT MERK ALINCO TUPE DJ-W58 DUALBAND,ICOM IC-V80 LM Version (Freq. 136-174 MHz),0.672202706,alinco,icom,0,0
+69,413,5,HT MERK ALINCO TUPE DJ-W58 DUALBAND,ICOM VHF Air Band Transceiver / IC-A210,0.662986279,alinco,icom,0,0
+70,144,1,BAOFENG BF-H6 (10W) Walkie Talkie,Baofeng BF-A58,0.660379291,baofeng,baofeng,0,0
+70,1202,2,BAOFENG BF-H6 (10W) Walkie Talkie,Baofeng BF-A58,0.637355447,baofeng,baofeng,0,0
+70,13,3,BAOFENG BF-H6 (10W) Walkie Talkie,Baofeng BF-A58,0.637355447,baofeng,baofeng,0,0
+70,172,4,BAOFENG BF-H6 (10W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.62546587,baofeng,baofeng,0,0
+70,75,5,BAOFENG BF-H6 (10W) Walkie Talkie,BAOFENG BF-T1,0.62234962,baofeng,baofeng,0,0
+71,1218,1,BAOFENG BF-888S Set 2 Unit (2W) Walkie Talkie,BAOFENG BF-888S,0.698402107,baofeng,baofeng,1,0
+71,142,2,BAOFENG BF-888S Set 2 Unit (2W) Walkie Talkie,Baofeng BF-888S,0.698402107,baofeng,baofeng,1,0
+71,29,3,BAOFENG BF-888S Set 2 Unit (2W) Walkie Talkie,BAOFENG BF-888S,0.698402107,baofeng,baofeng,1,0
+71,234,4,BAOFENG BF-888S Set 2 Unit (2W) Walkie Talkie,Baofeng BF - 888S,0.643440545,baofeng,baofeng,1,0
+71,144,5,BAOFENG BF-888S Set 2 Unit (2W) Walkie Talkie,Baofeng BF-A58,0.630376935,baofeng,baofeng,0,0
+72,172,1,BAOFENG UV-5R (8W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.652098715,baofeng,baofeng,0,0
+72,71,2,BAOFENG UV-5R (8W) Walkie Talkie,Baofeng BF-UV5R,0.645393193,baofeng,baofeng,0,0
+72,216,3,BAOFENG UV-5R (8W) Walkie Talkie,Yaesu VX6R,0.641011536,baofeng,yaesu,0,0
+72,142,4,BAOFENG UV-5R (8W) Walkie Talkie,Baofeng BF-888S,0.629373312,baofeng,baofeng,0,0
+72,29,5,BAOFENG UV-5R (8W) Walkie Talkie,BAOFENG BF-888S,0.629373312,baofeng,baofeng,0,0
+73,1218,1,BAOFENG BF-888S (2W) Walkie Talkie,BAOFENG BF-888S,0.729848504,baofeng,baofeng,1,0
+73,142,2,BAOFENG BF-888S (2W) Walkie Talkie,Baofeng BF-888S,0.729848504,baofeng,baofeng,1,0
+73,29,3,BAOFENG BF-888S (2W) Walkie Talkie,BAOFENG BF-888S,0.729848504,baofeng,baofeng,1,0
+73,144,4,BAOFENG BF-888S (2W) Walkie Talkie,Baofeng BF-A58,0.699480355,baofeng,baofeng,0,0
+73,1202,5,BAOFENG BF-888S (2W) Walkie Talkie,Baofeng BF-A58,0.677973151,baofeng,baofeng,0,0
+74,248,1,BAOFENG Earphone/Headset,Baofeng BF - 5RA,0.519492149,baofeng,baofeng,0,0
+74,247,2,BAOFENG Earphone/Headset,Baofeng BF - 5RC,0.514714479,baofeng,baofeng,0,0
+74,1202,3,BAOFENG Earphone/Headset,Baofeng BF-A58,0.511753678,baofeng,baofeng,0,0
+74,13,4,BAOFENG Earphone/Headset,Baofeng BF-A58,0.511753678,baofeng,baofeng,0,0
+74,114,5,BAOFENG Earphone/Headset,Motorola RLN 6544/PMMN4095A Wireless Remote Speaker Microphone,0.508127689,baofeng,motorola,0,0
+75,1218,1,BAOFENG UV-82 (8W) Walkie Talkie,BAOFENG BF-888S,0.65846163,baofeng,baofeng,0,0
+75,142,2,BAOFENG UV-82 (8W) Walkie Talkie,Baofeng BF-888S,0.65846163,baofeng,baofeng,0,0
+75,29,3,BAOFENG UV-82 (8W) Walkie Talkie,BAOFENG BF-888S,0.65846163,baofeng,baofeng,0,0
+75,1202,4,BAOFENG UV-82 (8W) Walkie Talkie,Baofeng BF-A58,0.651399851,baofeng,baofeng,0,0
+75,13,5,BAOFENG UV-82 (8W) Walkie Talkie,Baofeng BF-A58,0.651399851,baofeng,baofeng,0,0
+76,75,1,BAOFENG BF-T1 (2W) Walkie Talkie,BAOFENG BF-T1,0.703146577,baofeng,baofeng,1,0
+76,144,2,BAOFENG BF-T1 (2W) Walkie Talkie,Baofeng BF-A58,0.648019135,baofeng,baofeng,0,0
+76,1202,3,BAOFENG BF-T1 (2W) Walkie Talkie,Baofeng BF-A58,0.647545457,baofeng,baofeng,0,0
+76,13,4,BAOFENG BF-T1 (2W) Walkie Talkie,Baofeng BF-A58,0.647545457,baofeng,baofeng,0,0
+76,172,5,BAOFENG BF-T1 (2W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.622425377,baofeng,baofeng,0,0
+77,172,1,BAOFENG UV-5R (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.651628017,baofeng,baofeng,0,0
+77,71,2,BAOFENG UV-5R (5W) Walkie Talkie,Baofeng BF-UV5R,0.647873938,baofeng,baofeng,0,0
+77,216,3,BAOFENG UV-5R (5W) Walkie Talkie,Yaesu VX6R,0.630604386,baofeng,yaesu,0,0
+77,248,4,BAOFENG UV-5R (5W) Walkie Talkie,Baofeng BF - 5RA,0.630091786,baofeng,baofeng,0,0
+77,65,5,BAOFENG UV-5R (5W) Walkie Talkie,BAOFENG BF-H6,0.627287567,baofeng,baofeng,0,0
+78,121,1,BAOFENG UV-9R Plus NEW (5W) Walkie Talkie,BAOFENG UV-9R Plus New,0.642875075,baofeng,baofeng,1,0
+78,172,2,BAOFENG UV-9R Plus NEW (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.637793005,baofeng,baofeng,0,0
+78,71,3,BAOFENG UV-9R Plus NEW (5W) Walkie Talkie,Baofeng BF-UV5R,0.626442373,baofeng,baofeng,0,0
+78,65,4,BAOFENG UV-9R Plus NEW (5W) Walkie Talkie,BAOFENG BF-H6,0.624606431,baofeng,baofeng,0,0
+78,248,5,BAOFENG UV-9R Plus NEW (5W) Walkie Talkie,Baofeng BF - 5RA,0.617518842,baofeng,baofeng,0,0
+79,248,1,BAOFENG UV-5R Mini (5W) Walkie Talkie,Baofeng BF - 5RA,0.613829494,baofeng,baofeng,0,0
+79,247,2,BAOFENG UV-5R Mini (5W) Walkie Talkie,Baofeng BF - 5RC,0.603228867,baofeng,baofeng,0,0
+79,65,3,BAOFENG UV-5R Mini (5W) Walkie Talkie,BAOFENG BF-H6,0.600322604,baofeng,baofeng,0,0
+79,216,4,BAOFENG UV-5R Mini (5W) Walkie Talkie,Yaesu VX6R,0.587635338,baofeng,yaesu,0,0
+79,71,5,BAOFENG UV-5R Mini (5W) Walkie Talkie,Baofeng BF-UV5R,0.58294493,baofeng,baofeng,0,0
+80,172,1,BAOFENG UV-82 (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.647651315,baofeng,baofeng,0,0
+80,1202,2,BAOFENG UV-82 (5W) Walkie Talkie,Baofeng BF-A58,0.644362152,baofeng,baofeng,0,0
+80,13,3,BAOFENG UV-82 (5W) Walkie Talkie,Baofeng BF-A58,0.644362152,baofeng,baofeng,0,0
+80,144,4,BAOFENG UV-82 (5W) Walkie Talkie,Baofeng BF-A58,0.629719615,baofeng,baofeng,0,0
+80,71,5,BAOFENG UV-82 (5W) Walkie Talkie,Baofeng BF-UV5R,0.621360183,baofeng,baofeng,0,0
+81,71,1,BAOFENG UV-9R PRO (5W) Walkie Talkie,Baofeng BF-UV5R,0.665343046,baofeng,baofeng,0,0
+81,172,2,BAOFENG UV-9R PRO (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.648275018,baofeng,baofeng,0,0
+81,65,3,BAOFENG UV-9R PRO (5W) Walkie Talkie,BAOFENG BF-H6,0.641322434,baofeng,baofeng,0,0
+81,248,4,BAOFENG UV-9R PRO (5W) Walkie Talkie,Baofeng BF - 5RA,0.632974863,baofeng,baofeng,0,0
+81,247,5,BAOFENG UV-9R PRO (5W) Walkie Talkie,Baofeng BF - 5RC,0.628277898,baofeng,baofeng,0,0
+82,64,1,Antena HT BAOFENG Dual Band,Baofeng H-7,0.710228801,baofeng,baofeng,0,0
+82,65,2,Antena HT BAOFENG Dual Band,BAOFENG BF-H6,0.686445355,baofeng,baofeng,0,0
+82,242,3,Antena HT BAOFENG Dual Band,Baofeng UV-5RE,0.67337501,baofeng,baofeng,0,0
+82,103,4,Antena HT BAOFENG Dual Band,Baofeng DM-X,0.67114532,baofeng,baofeng,0,0
+82,247,5,Antena HT BAOFENG Dual Band,Baofeng BF - 5RC,0.668287754,baofeng,baofeng,0,0
+83,161,1,BAOFENG GT-3TP Mark III (8W) Walkie Talkie,Baofeng GT-3TP Mark III,0.649777293,baofeng,baofeng,1,0
+83,56,2,BAOFENG GT-3TP Mark III (8W) Walkie Talkie,BAOFENG GT-3TP Mark III,0.649777293,baofeng,baofeng,1,0
+83,172,3,BAOFENG GT-3TP Mark III (8W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.639594615,baofeng,baofeng,0,0
+83,1202,4,BAOFENG GT-3TP Mark III (8W) Walkie Talkie,Baofeng BF-A58,0.629458427,baofeng,baofeng,0,0
+83,13,5,BAOFENG GT-3TP Mark III (8W) Walkie Talkie,Baofeng BF-A58,0.629458427,baofeng,baofeng,0,0
+84,1218,1,Baterai HT BAOFENG BF-888S,BAOFENG BF-888S,0.628324807,baofeng,baofeng,1,0
+84,142,2,Baterai HT BAOFENG BF-888S,Baofeng BF-888S,0.628324807,baofeng,baofeng,1,0
+84,29,3,Baterai HT BAOFENG BF-888S,BAOFENG BF-888S,0.628324807,baofeng,baofeng,1,0
+84,234,4,Baterai HT BAOFENG BF-888S,Baofeng BF - 888S,0.617843986,baofeng,baofeng,1,0
+84,144,5,Baterai HT BAOFENG BF-888S,Baofeng BF-A58,0.598200679,baofeng,baofeng,0,0
+85,172,1,BAOFENG UV-13 PRO (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.633080542,baofeng,baofeng,0,0
+85,65,2,BAOFENG UV-13 PRO (5W) Walkie Talkie,BAOFENG BF-H6,0.628459036,baofeng,baofeng,0,0
+85,71,3,BAOFENG UV-13 PRO (5W) Walkie Talkie,Baofeng BF-UV5R,0.626454771,baofeng,baofeng,0,0
+85,248,4,BAOFENG UV-13 PRO (5W) Walkie Talkie,Baofeng BF - 5RA,0.622333765,baofeng,baofeng,0,0
+85,247,5,BAOFENG UV-13 PRO (5W) Walkie Talkie,Baofeng BF - 5RC,0.619305134,baofeng,baofeng,0,0
+86,75,1,BAOFENG BF-MINI (2W) Walkie Talkie HT,BAOFENG BF-T1,0.671876788,baofeng,baofeng,0,0
+86,1202,2,BAOFENG BF-MINI (2W) Walkie Talkie HT,Baofeng BF-A58,0.642681122,baofeng,baofeng,0,0
+86,13,3,BAOFENG BF-MINI (2W) Walkie Talkie HT,Baofeng BF-A58,0.642681122,baofeng,baofeng,0,0
+86,172,4,BAOFENG BF-MINI (2W) Walkie Talkie HT,Baofeng Baofeng / BF-UV5R,0.639139771,baofeng,baofeng,0,0
+86,144,5,BAOFENG BF-MINI (2W) Walkie Talkie HT,Baofeng BF-A58,0.635291696,baofeng,baofeng,0,0
+87,92,1,Baterai HT BAOFENG UV-5R,WEIERWEI UV-5R,0.585459828,baofeng,weierwei,0,0
+87,451,2,Baterai HT BAOFENG UV-5R,Hytera HP568,0.578532457,baofeng,hytera,0,0
+87,214,3,Baterai HT BAOFENG UV-5R,WEIERWEI UV-5R,0.575278997,baofeng,weierwei,0,0
+87,1071,4,Baterai HT BAOFENG UV-5R,Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.572868347,baofeng,hytera,0,0
+87,1057,5,Baterai HT BAOFENG UV-5R,Hytera RD 968 UHF (400-470Mhz),0.572361469,baofeng,hytera,0,0
+88,172,1,BAOFENG V88 (2W) Cloning Walkie Talkie - Baofeng Indonesia,Baofeng Baofeng / BF-UV5R,0.634044528,baofeng,baofeng,0,0
+88,1202,2,BAOFENG V88 (2W) Cloning Walkie Talkie - Baofeng Indonesia,Baofeng BF-A58,0.627349138,baofeng,baofeng,0,0
+88,13,3,BAOFENG V88 (2W) Cloning Walkie Talkie - Baofeng Indonesia,Baofeng BF-A58,0.627349138,baofeng,baofeng,0,0
+88,144,4,BAOFENG V88 (2W) Cloning Walkie Talkie - Baofeng Indonesia,Baofeng BF-A58,0.59772861,baofeng,baofeng,0,0
+88,142,5,BAOFENG V88 (2W) Cloning Walkie Talkie - Baofeng Indonesia,Baofeng BF-888S,0.596234679,baofeng,baofeng,0,0
+89,1325,1,Charger HT BAOFENG UV-82,WTW JAPAN TU-G9-1970I-026,0.660030603,baofeng,wtw japan,0,0
+89,1332,2,Charger HT BAOFENG UV-82,Sunnada WR2110/17 (Freq. 2100 MHz),0.641776919,baofeng,sunnada,0,0
+89,1165,3,Charger HT BAOFENG UV-82,Grentech SGR-Z-SG201,0.618803024,baofeng,grentech,0,0
+89,1166,4,Charger HT BAOFENG UV-82,Grentech SGR-Z-SG200 RO,0.617567778,baofeng,grentech,0,0
+89,1160,5,Charger HT BAOFENG UV-82,Grentech SGR-R3C0 / RF/B1/43/MY/ID/TS/0155,0.615045786,baofeng,grentech,0,0
+90,172,1,BAOFENG UV-S9 Plus (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.661568582,baofeng,baofeng,0,0
+90,65,2,BAOFENG UV-S9 Plus (5W) Walkie Talkie,BAOFENG BF-H6,0.651271582,baofeng,baofeng,0,0
+90,71,3,BAOFENG UV-S9 Plus (5W) Walkie Talkie,Baofeng BF-UV5R,0.647621393,baofeng,baofeng,0,0
+90,1202,4,BAOFENG UV-S9 Plus (5W) Walkie Talkie,Baofeng BF-A58,0.641659498,baofeng,baofeng,0,0
+90,13,5,BAOFENG UV-S9 Plus (5W) Walkie Talkie,Baofeng BF-A58,0.641659498,baofeng,baofeng,0,0
+91,172,1,BAOFENG UV-10R (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.65437448,baofeng,baofeng,0,0
+91,71,2,BAOFENG UV-10R (5W) Walkie Talkie,Baofeng BF-UV5R,0.635311007,baofeng,baofeng,0,0
+91,216,3,BAOFENG UV-10R (5W) Walkie Talkie,Yaesu VX6R,0.626063824,baofeng,yaesu,0,0
+91,1202,4,BAOFENG UV-10R (5W) Walkie Talkie,Baofeng BF-A58,0.624713182,baofeng,baofeng,0,0
+91,13,5,BAOFENG UV-10R (5W) Walkie Talkie,Baofeng BF-A58,0.624713182,baofeng,baofeng,0,0
+92,248,1,BAOFENG DM-X (5W) Digital Walkie Talkie,Baofeng BF - 5RA,0.570091724,baofeng,baofeng,0,0
+92,172,2,BAOFENG DM-X (5W) Digital Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.568984926,baofeng,baofeng,0,0
+92,65,3,BAOFENG DM-X (5W) Digital Walkie Talkie,BAOFENG BF-H6,0.566595912,baofeng,baofeng,0,0
+92,247,4,BAOFENG DM-X (5W) Digital Walkie Talkie,Baofeng BF - 5RC,0.565419316,baofeng,baofeng,0,0
+92,216,5,BAOFENG DM-X (5W) Digital Walkie Talkie,Yaesu VX6R,0.55340457,baofeng,yaesu,0,0
+93,144,1,BAOFENG BF-A58 (5W) Walkie Talkie,Baofeng BF-A58,0.694770575,baofeng,baofeng,1,0
+93,1202,2,BAOFENG BF-A58 (5W) Walkie Talkie,Baofeng BF-A58,0.644524693,baofeng,baofeng,1,0
+93,13,3,BAOFENG BF-A58 (5W) Walkie Talkie,Baofeng BF-A58,0.644524693,baofeng,baofeng,1,0
+93,172,4,BAOFENG BF-A58 (5W) Walkie Talkie,Baofeng Baofeng / BF-UV5R,0.602946401,baofeng,baofeng,0,0
+93,75,5,BAOFENG BF-A58 (5W) Walkie Talkie,BAOFENG BF-T1,0.598353267,baofeng,baofeng,0,0
+94,65,1,Baterai HT BAOFENG BF-H6,BAOFENG BF-H6,0.616171002,baofeng,baofeng,1,0
+94,144,2,Baterai HT BAOFENG BF-H6,Baofeng BF-A58,0.565365911,baofeng,baofeng,0,0
+94,1130,3,Baterai HT BAOFENG BF-H6,Hytera RD968 VHF (136-174 Mhz.),0.55240047,baofeng,hytera,0,0
+94,1160,4,Baterai HT BAOFENG BF-H6,Grentech SGR-R3C0 / RF/B1/43/MY/ID/TS/0155,0.550479293,baofeng,grentech,0,0
+94,1177,5,Baterai HT BAOFENG BF-H6,Grentech SGR-R310 / RF/B1F/43/MY/ID/XL/0033,0.547414839,baofeng,grentech,0,0
+95,1218,1,Charger BAOFENG BF-888S,BAOFENG BF-888S,0.697287083,baofeng,baofeng,1,0
+95,142,2,Charger BAOFENG BF-888S,Baofeng BF-888S,0.697287083,baofeng,baofeng,1,0
+95,29,3,Charger BAOFENG BF-888S,BAOFENG BF-888S,0.697287083,baofeng,baofeng,1,0
+95,144,4,Charger BAOFENG BF-888S,Baofeng BF-A58,0.657272696,baofeng,baofeng,0,0
+95,1202,5,Charger BAOFENG BF-888S,Baofeng BF-A58,0.65692091,baofeng,baofeng,0,0
+96,121,1,Baterai HT BAOFENG UV-9R Plus NEW,BAOFENG UV-9R Plus New,0.591555834,baofeng,baofeng,1,0
+96,1071,2,Baterai HT BAOFENG UV-9R Plus NEW,Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.582858562,baofeng,hytera,0,0
+96,1175,3,Baterai HT BAOFENG UV-9R Plus NEW,Grentech SGR-R310/RF/B1F/33/MY/ID/XL,0.573666751,baofeng,grentech,0,0
+96,1177,4,Baterai HT BAOFENG UV-9R Plus NEW,Grentech SGR-R310 / RF/B1F/43/MY/ID/XL/0033,0.571398556,baofeng,grentech,0,0
+96,1057,5,Baterai HT BAOFENG UV-9R Plus NEW,Hytera RD 968 UHF (400-470Mhz),0.558330715,baofeng,hytera,0,0
+97,242,1,BAOFENG Charger HT UV-5R,Baofeng UV-5RE,0.666666508,baofeng,baofeng,0,0
+97,160,2,BAOFENG Charger HT UV-5R,Baofeng UV-9R Plus,0.646656692,baofeng,baofeng,0,0
+97,172,3,BAOFENG Charger HT UV-5R,Baofeng Baofeng / BF-UV5R,0.643031478,baofeng,baofeng,0,0
+97,121,4,BAOFENG Charger HT UV-5R,BAOFENG UV-9R Plus New,0.641921878,baofeng,baofeng,0,0
+97,1325,5,BAOFENG Charger HT UV-5R,WTW JAPAN TU-G9-1970I-026,0.639508247,baofeng,wtw japan,0,0
+98,1071,1,Baterai HT BAOFENG UV-9R PRO,Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.61382544,baofeng,hytera,0,0
+98,1057,2,Baterai HT BAOFENG UV-9R PRO,Hytera RD 968 UHF (400-470Mhz),0.588477612,baofeng,hytera,0,0
+98,1130,3,Baterai HT BAOFENG UV-9R PRO,Hytera RD968 VHF (136-174 Mhz.),0.58846283,baofeng,hytera,0,0
+98,913,4,Baterai HT BAOFENG UV-9R PRO,Motorola SLR8000,0.583013177,baofeng,motorola,0,0
+98,1177,5,Baterai HT BAOFENG UV-9R PRO,Grentech SGR-R310 / RF/B1F/43/MY/ID/XL/0033,0.579070449,baofeng,grentech,0,0
+99,1071,1,Baterai HT BAOFENG UV-10 (BL-10UV),Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.631646991,baofeng,hytera,0,0
+99,1080,2,Baterai HT BAOFENG UV-10 (BL-10UV),Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.598353267,baofeng,hytera,0,0
+99,1069,3,Baterai HT BAOFENG UV-10 (BL-10UV),Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.598353207,baofeng,hytera,0,0
+99,1057,4,Baterai HT BAOFENG UV-10 (BL-10UV),Hytera RD 968 UHF (400-470Mhz),0.597354293,baofeng,hytera,0,0
+99,1130,5,Baterai HT BAOFENG UV-10 (BL-10UV),Hytera RD968 VHF (136-174 Mhz.),0.596042037,baofeng,hytera,0,0
+100,231,1,HT Handy Talkie SMP S1 Analog UHF Super Thin,Voxter UV-X5 ( 136-174 Mhz & 400-430 Mhz ),0.649944484,smp,voxter,0,0
+100,104,2,HT Handy Talkie SMP S1 Analog UHF Super Thin,Fastcom FC-UV88,0.6418221,smp,fastcom,0,0
+100,218,3,HT Handy Talkie SMP S1 Analog UHF Super Thin,Voxter U55,0.613989413,smp,voxter,0,0
+100,733,4,HT Handy Talkie SMP S1 Analog UHF Super Thin,KENWOOD NX-220 (136-174 MHz),0.609097123,smp,kenwood,0,0
+100,536,5,HT Handy Talkie SMP S1 Analog UHF Super Thin,Simoco SimocoXd/SDP760 (136-174 MHz,0.577600002,smp,simoco,0,0
+101,1130,1,Headset HT POC SMP Type C,Hytera RD968 VHF (136-174 Mhz.),0.541960597,smp,hytera,0,0
+101,1057,2,Headset HT POC SMP Type C,Hytera RD 968 UHF (400-470Mhz),0.540093541,smp,hytera,0,0
+101,983,3,Headset HT POC SMP Type C,Motorola SLR 5300 VHF 136-174 MHz,0.53821063,smp,motorola,0,0
+101,930,4,Headset HT POC SMP Type C,Motorola SLR 5300,0.532093883,smp,motorola,0,0
+101,451,5,Headset HT POC SMP Type C,Hytera HP568,0.527864695,smp,hytera,0,0
+102,340,1,HT POC Radio SMP PNC590 Android Zello Global,CLARIGO L 90 (UHF : 340-399.995 MHz),0.748207211,smp,clarigo,0,0
+102,52,2,HT POC Radio SMP PNC590 Android Zello Global,Motorola XiR M8668i,0.728964269,smp,motorola,0,0
+102,459,3,HT POC Radio SMP PNC590 Android Zello Global,Motorola MTP8550Ex,0.722245812,smp,motorola,0,0
+102,870,4,HT POC Radio SMP PNC590 Android Zello Global,Motorola XiR P8608 403-438 MHz,0.717083454,smp,motorola,0,0
+102,330,5,HT POC Radio SMP PNC590 Android Zello Global,CLARIGO Clarigo L 90  (UHF:400-438 MHz),0.717075109,smp,clarigo,0,0
+103,1162,1,HT Kinnota R5 Mini Analog UHF VHF Multiband,M3 M3-RD-550,0.664909482,,m3,0,1
+103,1307,2,HT Kinnota R5 Mini Analog UHF VHF Multiband,WRI FiberHome GZF2100-V,0.661019325,,wri fiberhome,0,1
+103,1290,3,HT Kinnota R5 Mini Analog UHF VHF Multiband,WRI FiberHome GZF2100-V,0.661019325,,wri fiberhome,0,1
+103,1130,4,HT Kinnota R5 Mini Analog UHF VHF Multiband,Hytera RD968 VHF (136-174 Mhz.),0.65081358,,hytera,0,1
+103,446,5,HT Kinnota R5 Mini Analog UHF VHF Multiband,Motorola R5 VHF,0.64563185,,motorola,0,1
+104,216,1,HT Kinnota POC K7 Walkie Talkie,Yaesu VX6R,0.572848797,,yaesu,0,1
+104,218,2,HT Kinnota POC K7 Walkie Talkie,Voxter U55,0.516200662,,voxter,0,1
+104,951,3,HT Kinnota POC K7 Walkie Talkie,HYBE HR,0.505715847,,hybe,0,1
+104,217,4,HT Kinnota POC K7 Walkie Talkie,Voxter Voxter / UVT10,0.473864436,,voxter,0,1
+104,144,5,HT Kinnota POC K7 Walkie Talkie,Baofeng BF-A58,0.467728913,,baofeng,0,1
+105,218,1,HT SMP POC H8 Android Walkie Talkie Zello,Voxter U55,0.508021355,smp,voxter,0,0
+105,216,2,HT SMP POC H8 Android Walkie Talkie Zello,Yaesu VX6R,0.496936977,smp,yaesu,0,0
+105,1044,3,HT SMP POC H8 Android Walkie Talkie Zello,Simoco EMEA SDB680 TU,0.492145479,smp,simoco emea,0,0
+105,402,4,HT SMP POC H8 Android Walkie Talkie Zello,Motorola MOTOTRBO XiR™ M8268,0.485122979,smp,motorola,0,0
+105,1316,5,HT SMP POC H8 Android Walkie Talkie Zello,HLS Coverage AT601T,0.475841105,smp,hls,0,0
+106,659,1,Baterai HT SMP PNC560,Hytera PNC380,0.620302677,smp,hytera,0,0
+106,1078,2,Baterai HT SMP PNC560,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.619684219,smp,simoco,0,0
+106,702,3,Baterai HT SMP PNC560,Motorola XiR P8628i (403-438 MHz),0.615708053,smp,motorola,0,0
+106,934,4,Baterai HT SMP PNC560,Motorola SLR8000,0.613146365,smp,motorola,0,0
+106,596,5,Baterai HT SMP PNC560,Motorola XiR P8628i AZH56JDQ9RA1AN (136-174 MHz),0.610265136,smp,motorola,0,0
+107,688,1,Extramic Bluetooth Noxgear Push-To-Talk Speaker,SOUNESS SNI-1577UT,0.664990604,,souness,0,1
+107,689,2,Extramic Bluetooth Noxgear Push-To-Talk Speaker,SOUNESS SNI-1575UT,0.662120938,,souness,0,1
+107,114,3,Extramic Bluetooth Noxgear Push-To-Talk Speaker,Motorola RLN 6544/PMMN4095A Wireless Remote Speaker Microphone,0.657621443,,motorola,0,1
+107,57,4,Extramic Bluetooth Noxgear Push-To-Talk Speaker,WEIRCOM WR-Q7,0.516379774,,weircom,0,1
+107,36,5,Extramic Bluetooth Noxgear Push-To-Talk Speaker,WEIRCOM WR808,0.500725687,,weircom,0,1
+108,1291,1,"Set top Box Dongle Wifi buat STB luby, apple, matrix, dll",EnGenius EAP9550,0.553921103,,engenius,0,1
+108,188,2,"Set top Box Dongle Wifi buat STB luby, apple, matrix, dll",ICOM IC-F4003,0.507039905,,icom,0,1
+108,1214,3,"Set top Box Dongle Wifi buat STB luby, apple, matrix, dll",ICOM IC-F5023H,0.50622952,,icom,0,1
+108,193,4,"Set top Box Dongle Wifi buat STB luby, apple, matrix, dll",ICOM IC-F5023H,0.50622952,,icom,0,1
+108,25,5,"Set top Box Dongle Wifi buat STB luby, apple, matrix, dll",ICOM IC-F5023H,0.50622952,,icom,0,1
+109,931,1,Headset HT 1 Colokan One Jack,MOTOROLA SLR5300,0.543393314,,motorola,0,1
+109,985,2,Headset HT 1 Colokan One Jack,Motorola MTR 2000,0.526831508,,motorola,0,1
+109,1102,3,Headset HT 1 Colokan One Jack,MOTOROLA Quantar,0.522298932,,motorola,0,1
+109,935,4,Headset HT 1 Colokan One Jack,MOTOROLA SLR 5300,0.519834518,,motorola,0,1
+109,958,5,Headset HT 1 Colokan One Jack,Motorola SLR8000,0.51683259,,motorola,0,1
+110,1039,1,Tissue basah mini lucu/ tissue basah travel pack/ wet tissue,BARINDO LD 210E,0.20526433,,barindo,0,1
+110,924,2,Tissue basah mini lucu/ tissue basah travel pack/ wet tissue,Hytera MD300,0.198862553,,hytera,0,1
+110,941,3,Tissue basah mini lucu/ tissue basah travel pack/ wet tissue,Hytera RD628,0.175053194,,hytera,0,1
+110,989,4,Tissue basah mini lucu/ tissue basah travel pack/ wet tissue,Hytera RD988S,0.161294281,,hytera,0,1
+110,986,5,Tissue basah mini lucu/ tissue basah travel pack/ wet tissue,Hytera RD988S,0.161294192,,hytera,0,1
+111,924,1,selang nazal oksigen headset yuwell reuseable,Hytera MD300,0.401496589,,hytera,0,1
+111,1003,2,selang nazal oksigen headset yuwell reuseable,Hytera RD988 UHF (400-440 MHz),0.387764901,,hytera,0,1
+111,1057,3,selang nazal oksigen headset yuwell reuseable,Hytera RD 968 UHF (400-470Mhz),0.385171473,,hytera,0,1
+111,891,4,selang nazal oksigen headset yuwell reuseable,Hytera DS-6210,0.384755731,,hytera,0,1
+111,890,5,selang nazal oksigen headset yuwell reuseable,Hytera DS-6210,0.384755731,,hytera,0,1
+112,216,1,Handy Talky SMP PoC MiMi Global PoCStar Walkie Talkie include akun permanen,Yaesu VX6R,0.566326499,smp,yaesu,0,0
+112,218,2,Handy Talky SMP PoC MiMi Global PoCStar Walkie Talkie include akun permanen,Voxter U55,0.544453681,smp,voxter,0,0
+112,217,3,Handy Talky SMP PoC MiMi Global PoCStar Walkie Talkie include akun permanen,Voxter Voxter / UVT10,0.521453261,smp,voxter,0,0
+112,104,4,Handy Talky SMP PoC MiMi Global PoCStar Walkie Talkie include akun permanen,Fastcom FC-UV88,0.442955077,smp,fastcom,0,0
+112,1044,5,Handy Talky SMP PoC MiMi Global PoCStar Walkie Talkie include akun permanen,Simoco EMEA SDB680 TU,0.437466145,smp,simoco emea,0,0
+113,216,1,POC Global G2 Handy Talkie Mini Jarak Jauh,Yaesu VX6R,0.565902591,,yaesu,0,1
+113,218,2,POC Global G2 Handy Talkie Mini Jarak Jauh,Voxter U55,0.549793899,,voxter,0,1
+113,231,3,POC Global G2 Handy Talkie Mini Jarak Jauh,Voxter UV-X5 ( 136-174 Mhz & 400-430 Mhz ),0.530511022,,voxter,0,1
+113,104,4,POC Global G2 Handy Talkie Mini Jarak Jauh,Fastcom FC-UV88,0.518917918,,fastcom,0,1
+113,20,5,POC Global G2 Handy Talkie Mini Jarak Jauh,talkcom TC-698S,0.510505736,,talkcom,0,1
+114,1204,1,Antena HT Tarik Diamond RH 775 - RH 775,HARVE HV-88,0.656400204,,harve,0,1
+114,134,2,Antena HT Tarik Diamond RH 775 - RH 775,HARVE HV-88,0.656400204,,harve,0,1
+114,15,3,Antena HT Tarik Diamond RH 775 - RH 775,HARVE HV-88,0.656400204,,harve,0,1
+114,219,4,Antena HT Tarik Diamond RH 775 - RH 775,Xiamen X-008 VHF : 136-174 MHz UHF : 400-440 MHz,0.652651548,,xiamen,0,1
+114,392,5,Antena HT Tarik Diamond RH 775 - RH 775,HY-E SH-835 Freq. 136-174 MHz,0.650880098,,hy-e,0,1
+115,598,1,"Selang oksigen nasal canula impor, high quality",HYT By Hytera TC 518 UHF (350-390 MHz),0.235145196,,hyt by hytera,0,1
+115,412,2,"Selang oksigen nasal canula impor, high quality",ICOM VHF Marine Transceiver / IC-M422,0.229417935,,icom,0,1
+115,642,3,"Selang oksigen nasal canula impor, high quality",HYT By Hytera TC-700 UHF (350-390 MHz),0.226621434,,hyt by hytera,0,1
+115,599,4,"Selang oksigen nasal canula impor, high quality",HYT By Hytera TC 508 VHF (136-174 MHz),0.226446092,,hyt by hytera,0,1
+115,486,5,"Selang oksigen nasal canula impor, high quality",MOTOROLA R2 UHF,0.224671587,,motorola,0,1
+116,1071,1,Baterai HT UV82 Kompatibel Segala Merk HT,Hytera RD 968 UHF (400-440 Mhz.) <= 10 Watt,0.554433584,,hytera,0,1
+116,451,2,Baterai HT UV82 Kompatibel Segala Merk HT,Hytera HP568,0.533989787,,hytera,0,1
+116,659,3,Baterai HT UV82 Kompatibel Segala Merk HT,Hytera PNC380,0.523788691,,hytera,0,1
+116,512,4,Baterai HT UV82 Kompatibel Segala Merk HT,Hytera HP508,0.523683488,,hytera,0,1
+116,519,5,Baterai HT UV82 Kompatibel Segala Merk HT,Hytera BD508,0.520760238,,hytera,0,1
+117,216,1,HT POC Global G18 Two Way Radio walkie talkie,Yaesu VX6R,0.734500289,,yaesu,0,1
+117,218,2,HT POC Global G18 Two Way Radio walkie talkie,Voxter U55,0.729931653,,voxter,0,1
+117,1209,3,HT POC Global G18 Two Way Radio walkie talkie,talkcom TC-698S,0.705564022,,talkcom,0,1
+117,20,4,HT POC Global G18 Two Way Radio walkie talkie,talkcom TC-698S,0.705564022,,talkcom,0,1
+117,1207,5,HT POC Global G18 Two Way Radio walkie talkie,talkcom TC - 988 PLUS,0.691454291,,talkcom,0,1
+118,997,1,"Extramic Motorola RIG GP3688, GP3188 PMMN4090 ori",Motorola SLR 5300 (410 -430 Mhz),0.840846062,motorola,motorola,0,0
+118,1045,2,"Extramic Motorola RIG GP3688, GP3188 PMMN4090 ori",Motorola SLR5300 (403 - 438 MHz),0.835133314,motorola,motorola,0,0
+118,981,3,"Extramic Motorola RIG GP3688, GP3188 PMMN4090 ori",Motorola SLR 5300 UHF 400-470 MHz,0.833110213,motorola,motorola,0,0
+118,968,4,"Extramic Motorola RIG GP3688, GP3188 PMMN4090 ori",Motorola SLR 5300 (400-470 MHz),0.829569757,motorola,motorola,0,0
+118,926,5,"Extramic Motorola RIG GP3688, GP3188 PMMN4090 ori",Motorola SLR 5300,0.813586652,motorola,motorola,0,0
+119,233,1,Keypad ht Alinco dj-w10 dj-w100 dj-a10 tombol radio djw10 djw100 dja10,Alinco DJ-VX10,0.674426913,alinco,alinco,0,0
+119,232,2,Keypad ht Alinco dj-w10 dj-w100 dj-a10 tombol radio djw10 djw100 dja10,Alinco DJ-VX50,0.648237526,alinco,alinco,0,0
+119,946,3,Keypad ht Alinco dj-w10 dj-w100 dj-a10 tombol radio djw10 djw100 dja10,Comba RX9139,0.606763959,alinco,comba,0,0
+119,687,4,Keypad ht Alinco dj-w10 dj-w100 dj-a10 tombol radio djw10 djw100 dja10,Simoco EMEA SDP760 T1,0.606405616,alinco,simoco emea,0,0
+119,1013,5,Keypad ht Alinco dj-w10 dj-w100 dj-a10 tombol radio djw10 djw100 dja10,Comba RX9139,0.604239404,alinco,comba,0,0
+120,450,1,Antena HT POC SMP PNC560,Motorola XIR P8608,0.712010384,smp,motorola,0,0
+120,702,2,Antena HT POC SMP PNC560,Motorola XiR P8628i (403-438 MHz),0.700287938,smp,motorola,0,0
+120,828,3,Antena HT POC SMP PNC560,Motorola XiR P8608i (403-438Mhz),0.697681069,smp,motorola,0,0
+120,817,4,Antena HT POC SMP PNC560,Motorola XiR P8608i (403-438Mhz),0.697681069,smp,motorola,0,0
+120,659,5,Antena HT POC SMP PNC560,Hytera PNC380,0.696273088,smp,hytera,0,0
+121,1089,1,Set Top Box digital Mitsuyama Bonus Kabel HDMI+RCA,CenRF WCDMA Digital Fiber Optical Repeater Remote Unit,0.520319104,,cenrf,0,1
+121,1088,2,Set Top Box digital Mitsuyama Bonus Kabel HDMI+RCA,CenRF WCDMA Digital Fiber Optical Repeater Master Unit,0.51462841,,cenrf,0,1
+121,687,3,Set Top Box digital Mitsuyama Bonus Kabel HDMI+RCA,Simoco EMEA SDP760 T1,0.504527748,,simoco emea,0,1
+121,944,4,Set Top Box digital Mitsuyama Bonus Kabel HDMI+RCA,CenRF DCS WCDMA Dualband MCPA Inline Booster,0.502899051,,cenrf,0,1
+121,1053,5,Set Top Box digital Mitsuyama Bonus Kabel HDMI+RCA,Hytera E-PACK 100U(3) (350-400Mhz),0.502703547,,hytera,0,1
+122,1118,1,Kabel gateway Rig POC SMP MNC360 buntung,Sepura SRG 3900 (Freq. 344 - 400 MHz),0.667373359,smp,sepura,0,0
+122,1259,2,Kabel gateway Rig POC SMP MNC360 buntung,NETIS WF-2419,0.649633646,smp,netis,0,0
+122,1258,3,Kabel gateway Rig POC SMP MNC360 buntung,NETIS WF-2411,0.648064733,smp,netis,0,0
+122,1303,4,Kabel gateway Rig POC SMP MNC360 buntung,NEC SLR320SW,0.641892433,smp,nec,0,0
+122,1298,5,Kabel gateway Rig POC SMP MNC360 buntung,NEC SLR320SW,0.641892433,smp,nec,0,0
+123,580,1,Antena HT Diamond RH-779 Bisa Ditarik dan Ditekuk RH 779 HT ANTENA,HYTERA PD788G U(1),0.585993528,,hytera,0,1
+123,1204,2,Antena HT Diamond RH-779 Bisa Ditarik dan Ditekuk RH 779 HT ANTENA,HARVE HV-88,0.583335996,,harve,0,1
+123,134,3,Antena HT Diamond RH-779 Bisa Ditarik dan Ditekuk RH 779 HT ANTENA,HARVE HV-88,0.583335996,,harve,0,1
+123,15,4,Antena HT Diamond RH-779 Bisa Ditarik dan Ditekuk RH 779 HT ANTENA,HARVE HV-88,0.583335996,,harve,0,1
+123,200,5,Antena HT Diamond RH-779 Bisa Ditarik dan Ditekuk RH 779 HT ANTENA,SKYMAX UV-8R,0.575566709,,skymax,0,1
+124,1088,1,Tissue basah pet wipes 100 sheets,CenRF WCDMA Digital Fiber Optical Repeater Master Unit,0.234542862,,cenrf,0,1
+124,1039,2,Tissue basah pet wipes 100 sheets,BARINDO LD 210E,0.226500466,,barindo,0,1
+124,1246,3,Tissue basah pet wipes 100 sheets,ACI Acion 6000,0.20617786,,aci,0,1
+124,1026,4,Tissue basah pet wipes 100 sheets,CERNTEL T1017,0.204507351,,cerntel,0,1
+124,905,5,Tissue basah pet wipes 100 sheets,Hytera HR1068 UHF 350 - 400 MHz,0.198144227,,hytera,0,1
+125,92,1,Baterai HT UV5R Kompatibel Berlin FM Bo Peng Verxion Kinnota,WEIERWEI UV-5R,0.619916022,verxion,weierwei,0,0
+125,214,2,Baterai HT UV5R Kompatibel Berlin FM Bo Peng Verxion Kinnota,WEIERWEI UV-5R,0.61912632,verxion,weierwei,0,0
+125,212,3,Baterai HT UV5R Kompatibel Berlin FM Bo Peng Verxion Kinnota,WEIERWEI VEV-3288s,0.584013939,verxion,weierwei,0,0
+125,155,4,Baterai HT UV5R Kompatibel Berlin FM Bo Peng Verxion Kinnota,Weierwei VEV-16,0.582600474,verxion,weierwei,0,0
+125,48,5,Baterai HT UV5R Kompatibel Berlin FM Bo Peng Verxion Kinnota,WEIERWEI VEV-16,0.582600474,verxion,weierwei,0,0
+126,1078,1,Charger Docking HT SMP PNC560,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.649833739,smp,simoco,0,0
+126,1176,2,Charger Docking HT SMP PNC560,Grentech SGR-R320/RF/B1F/43/MY/0126,0.618561029,smp,grentech,0,0
+126,1179,3,Charger Docking HT SMP PNC560,Grentech SGR-R320 / RF/B1F/40/MY/0157,0.617429078,smp,grentech,0,0
+126,450,4,Charger Docking HT SMP PNC560,Motorola XIR P8608,0.616546273,smp,motorola,0,0
+126,960,5,Charger Docking HT SMP PNC560,Simoco SimocoXd/SDB680 136-174 MHz 50 Watt,0.615053892,smp,simoco,0,0
+127,1316,1,HT SMP PNC590 Lynux POC Global Free Akun + Simcard,HLS Coverage AT601T,0.511600733,smp,hls,0,0
+127,171,2,HT SMP PNC590 Lynux POC Global Free Akun + Simcard,SME-com SME-com 338 VHF (136 - 174 MHz),0.470442414,smp,sme-com,0,0
+127,261,3,HT SMP PNC590 Lynux POC Global Free Akun + Simcard,SME-com SME-com 338 VHF (136-174 Mhz),0.467775762,smp,sme-com,0,0
+127,1053,4,HT SMP PNC590 Lynux POC Global Free Akun + Simcard,Hytera E-PACK 100U(3) (350-400Mhz),0.454181939,smp,hytera,0,0
+127,170,5,HT SMP PNC590 Lynux POC Global Free Akun + Simcard,SME-com SME-com 338 UHF (330 - 400 MHz),0.454148114,smp,sme-com,0,0
+128,536,1,HT SMP DM700 UHF/VHF 10W IP68,Simoco SimocoXd/SDP760 (136-174 MHz,0.754522443,smp,simoco,0,0
+128,1130,2,HT SMP DM700 UHF/VHF 10W IP68,Hytera RD968 VHF (136-174 Mhz.),0.744687796,smp,hytera,0,0
+128,513,3,HT SMP DM700 UHF/VHF 10W IP68,Hytera HM688,0.736456096,smp,hytera,0,0
+128,1057,4,HT SMP DM700 UHF/VHF 10W IP68,Hytera RD 968 UHF (400-470Mhz),0.735710561,smp,hytera,0,0
+128,1078,5,HT SMP DM700 UHF/VHF 10W IP68,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.732214332,smp,simoco,0,0
+129,1101,1,HT Kinnota UV K5 plus 10W Multi Band,KENWOOD TKR-850,0.65257436,,kenwood,0,1
+129,1184,2,HT Kinnota UV K5 plus 10W Multi Band,KENWOOD TKR-850,0.640174568,,kenwood,0,1
+129,203,3,HT Kinnota UV K5 plus 10W Multi Band,WOUXUN KG-UV9D (Plus),0.63525939,,wouxun,0,1
+129,1084,4,HT Kinnota UV K5 plus 10W Multi Band,KENWOOD NXR-710 (136-174 MHz),0.624527872,,kenwood,0,1
+129,912,5,HT Kinnota UV K5 plus 10W Multi Band,COMCELL CC0918,0.617237151,,comcell,0,1
+130,630,1,Antena Motorola HAD4008A VHF 150.8 - 162 MHz Original Antena VHF Mobil Baru,Motorola XiR P8660i / AZH56JDN9VA1AN (136-174 Mhz),0.740557551,motorola,motorola,0,0
+130,596,2,Antena Motorola HAD4008A VHF 150.8 - 162 MHz Original Antena VHF Mobil Baru,Motorola XiR P8628i AZH56JDQ9RA1AN (136-174 MHz),0.735479474,motorola,motorola,0,0
+130,503,3,Antena Motorola HAD4008A VHF 150.8 - 162 MHz Original Antena VHF Mobil Baru,Motorola XiR C2660,0.734809399,motorola,motorola,0,0
+130,595,4,Antena Motorola HAD4008A VHF 150.8 - 162 MHz Original Antena VHF Mobil Baru,Motorola XiR P8608i AZH56JDC9RA1AN (136-174 MHz),0.732477963,motorola,motorola,0,0
+130,508,5,Antena Motorola HAD4008A VHF 150.8 - 162 MHz Original Antena VHF Mobil Baru,Motorola XiR C2620,0.728692412,motorola,motorola,0,0
+131,158,1,HT Redell DL-9108 Dualband Original Garansi Resmi,REDELL DL-9900,0.735141397,redell,redell,0,0
+131,151,2,HT Redell DL-9108 Dualband Original Garansi Resmi,REDELL DL-9108,0.711465359,redell,redell,1,0
+131,1224,3,HT Redell DL-9108 Dualband Original Garansi Resmi,REDELL DL-9900,0.704277396,redell,redell,0,0
+131,35,4,HT Redell DL-9108 Dualband Original Garansi Resmi,REDELL DL-9900,0.704277396,redell,redell,0,0
+131,220,5,HT Redell DL-9108 Dualband Original Garansi Resmi,REDELL DL-7108 VHF: 136-174 MHz UHF: 400-440 MHz UHF: 330-390 MHz,0.691214561,redell,redell,0,0
+132,351,1,Antena Mobill Nagoya NL-R2 144/430 MHz Original Antena Mobil Dual Band,CLARIGO L 90 (VHF 136-174 MHz),0.704815388,,clarigo,0,1
+132,340,2,Antena Mobill Nagoya NL-R2 144/430 MHz Original Antena Mobil Dual Band,CLARIGO L 90 (UHF : 340-399.995 MHz),0.695481062,,clarigo,0,1
+132,330,3,Antena Mobill Nagoya NL-R2 144/430 MHz Original Antena Mobil Dual Band,CLARIGO Clarigo L 90  (UHF:400-438 MHz),0.688421011,,clarigo,0,1
+132,260,4,Antena Mobill Nagoya NL-R2 144/430 MHz Original Antena Mobil Dual Band,VOXTER UV-B5 (400-430 MHz & 136-174 MHz),0.679498792,,voxter,0,1
+132,291,5,Antena Mobill Nagoya NL-R2 144/430 MHz Original Antena Mobil Dual Band,JACOM JACOM JC-668 VHF 136-174Mhz,0.67486465,,jacom,0,1
+133,1315,1,Power Supply Maldol ALC-3030AM Original DC Power Supply 30 Ampere Baru,Andrew MR1818U,0.697883904,,andrew,0,1
+133,1078,2,Power Supply Maldol ALC-3030AM Original DC Power Supply 30 Ampere Baru,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.63997817,,simoco,0,1
+133,960,3,Power Supply Maldol ALC-3030AM Original DC Power Supply 30 Ampere Baru,Simoco SimocoXd/SDB680 136-174 MHz 50 Watt,0.636376679,,simoco,0,1
+133,1313,4,Power Supply Maldol ALC-3030AM Original DC Power Supply 30 Ampere Baru,Powercom SCR-R320C-500/6.8M/R/ID,0.614591002,,powercom,0,1
+133,1166,5,Power Supply Maldol ALC-3030AM Original DC Power Supply 30 Ampere Baru,Grentech SGR-Z-SG200 RO,0.601941228,,grentech,0,1
+134,513,1,Antena HF Diamond HF30FX 10 MHz Original Antena Radio Mobile SSB,Hytera HM688,0.718793869,,hytera,0,1
+134,291,2,Antena HF Diamond HF30FX 10 MHz Original Antena Radio Mobile SSB,JACOM JACOM JC-668 VHF 136-174Mhz,0.714925289,,jacom,0,1
+134,503,3,Antena HF Diamond HF30FX 10 MHz Original Antena Radio Mobile SSB,Motorola XiR C2660,0.713916659,,motorola,0,1
+134,883,4,Antena HF Diamond HF30FX 10 MHz Original Antena Radio Mobile SSB,KIRISUN PT6500-01 (Freq. 136-174 Mhz),0.71137464,,kirisun,0,1
+134,881,5,Antena HF Diamond HF30FX 10 MHz Original Antena Radio Mobile SSB,KIRISUN PT7200-01 (Freq. 136-174 Mhz),0.711146355,,kirisun,0,1
+135,689,1,HT POC Inrico T640A Original HT Jarak Jauh 4G LTE WIFI GPS Bluetooth,SOUNESS SNI-1575UT,0.773874879,inrico,souness,0,0
+135,688,2,HT POC Inrico T640A Original HT Jarak Jauh 4G LTE WIFI GPS Bluetooth,SOUNESS SNI-1577UT,0.764258325,inrico,souness,0,0
+135,906,3,HT POC Inrico T640A Original HT Jarak Jauh 4G LTE WIFI GPS Bluetooth,BINTANG WR48S4T,0.705503702,inrico,bintang,0,0
+135,1002,4,HT POC Inrico T640A Original HT Jarak Jauh 4G LTE WIFI GPS Bluetooth,MST W-WRN-000-i-BLE,0.670913815,inrico,mst,0,0
+135,114,5,HT POC Inrico T640A Original HT Jarak Jauh 4G LTE WIFI GPS Bluetooth,Motorola RLN 6544/PMMN4095A Wireless Remote Speaker Microphone,0.663393497,inrico,motorola,0,0
+136,882,1,Antena Mobil HF Diamond MD200 Frekuensi 7 – 30 MHz Original Antena Radio SSB,KIRISUN PT3800 (1) (Freq. 136-174 Mhz),0.774454474,,kirisun,0,1
+136,881,2,Antena Mobil HF Diamond MD200 Frekuensi 7 – 30 MHz Original Antena Radio SSB,KIRISUN PT7200-01 (Freq. 136-174 Mhz),0.771036148,,kirisun,0,1
+136,883,3,Antena Mobil HF Diamond MD200 Frekuensi 7 – 30 MHz Original Antena Radio SSB,KIRISUN PT6500-01 (Freq. 136-174 Mhz),0.769994974,,kirisun,0,1
+136,708,4,Antena Mobil HF Diamond MD200 Frekuensi 7 – 30 MHz Original Antena Radio SSB,Mag One VZ28 (136-174 MHz),0.766993642,,mag one,0,1
+136,291,5,Antena Mobil HF Diamond MD200 Frekuensi 7 – 30 MHz Original Antena Radio SSB,JACOM JACOM JC-668 VHF 136-174Mhz,0.758046746,,jacom,0,1
+137,689,1,Radio Rig POC Talkcom TC-9900 Original Mini Rig Jarak Jauh 4G LTE Android Bluetooth,SOUNESS SNI-1575UT,0.785936356,talkcom,souness,0,0
+137,688,2,Radio Rig POC Talkcom TC-9900 Original Mini Rig Jarak Jauh 4G LTE Android Bluetooth,SOUNESS SNI-1577UT,0.77945745,talkcom,souness,0,0
+137,826,3,Radio Rig POC Talkcom TC-9900 Original Mini Rig Jarak Jauh 4G LTE Android Bluetooth,Motorola MTP3250 (350-430 MHz),0.686572194,talkcom,motorola,0,0
+137,114,4,Radio Rig POC Talkcom TC-9900 Original Mini Rig Jarak Jauh 4G LTE Android Bluetooth,Motorola RLN 6544/PMMN4095A Wireless Remote Speaker Microphone,0.686517,talkcom,motorola,0,0
+137,825,5,Radio Rig POC Talkcom TC-9900 Original Mini Rig Jarak Jauh 4G LTE Android Bluetooth,Motorola MTP3100 (350-430 MHz),0.678702891,talkcom,motorola,0,0
+138,630,1,Antena Diamond M150-GSA Original Antena Mobil Diamond M150GSA,Motorola XiR P8660i / AZH56JDN9VA1AN (136-174 Mhz),0.600239754,,motorola,0,1
+138,503,2,Antena Diamond M150-GSA Original Antena Mobil Diamond M150GSA,Motorola XiR C2660,0.595023513,,motorola,0,1
+138,595,3,Antena Diamond M150-GSA Original Antena Mobil Diamond M150GSA,Motorola XiR P8608i AZH56JDC9RA1AN (136-174 MHz),0.594612598,,motorola,0,1
+138,796,4,Antena Diamond M150-GSA Original Antena Mobil Diamond M150GSA,Motorola XiR P6620i (136-174 Mhz),0.594530821,,motorola,0,1
+138,808,5,Antena Diamond M150-GSA Original Antena Mobil Diamond M150GSA,"Motorola MTP850, Freq. 806-870 MHz",0.594121873,,motorola,0,1
+139,1247,1,Belfone BF-SFR600 VHF UHF Single Frequency Repeater DMR Radio SFR600 SFR,TAIT TB8100 (148-174 MHz),0.835564733,belfone,tait,0,0
+139,1251,2,Belfone BF-SFR600 VHF UHF Single Frequency Repeater DMR Radio SFR600 SFR,TAIT TB8100 (762-869 MHz),0.809513807,belfone,tait,0,0
+139,1114,3,Belfone BF-SFR600 VHF UHF Single Frequency Repeater DMR Radio SFR600 SFR,Simoco TSF 2100 (Freq. 136 - 174 MHz),0.801258385,belfone,simoco,0,0
+139,272,4,Belfone BF-SFR600 VHF UHF Single Frequency Repeater DMR Radio SFR600 SFR,Simoco TSF 2100 (Freq. 136 - 174 MHz),0.801258385,belfone,simoco,0,0
+139,390,5,Belfone BF-SFR600 VHF UHF Single Frequency Repeater DMR Radio SFR600 SFR,LDT 800 (VHF Frek. 135-174 MHz),0.773842692,belfone,ldt,0,0
+140,906,1,HT POC Telox TE320 Original Handy Talky 4G LTE Wifi GPS Waterproof,BINTANG WR48S4T,0.594393849,,bintang,0,1
+140,472,2,HT POC Telox TE320 Original Handy Talky 4G LTE Wifi GPS Waterproof,TeloSystems TE590,0.587338865,,telosystems,0,1
+140,1322,3,HT POC Telox TE320 Original Handy Talky 4G LTE Wifi GPS Waterproof,EnGenius EAP-3660,0.58293128,,engenius,0,1
+140,1291,4,HT POC Telox TE320 Original Handy Talky 4G LTE Wifi GPS Waterproof,EnGenius EAP9550,0.574378788,,engenius,0,1
+140,656,5,HT POC Telox TE320 Original Handy Talky 4G LTE Wifi GPS Waterproof,TeloSystems TE580,0.568713307,,telosystems,0,1
+141,459,1,Radio Rig SMP MNC560 Original Rig Mobile Android Gateway,Motorola MTP8550Ex,0.695828795,smp,motorola,0,0
+141,778,2,Radio Rig SMP MNC560 Original Rig Mobile Android Gateway,Motorola MTP8550Ex (800 Mhz),0.693859935,smp,motorola,0,0
+141,826,3,Radio Rig SMP MNC560 Original Rig Mobile Android Gateway,Motorola MTP3250 (350-430 MHz),0.690129995,smp,motorola,0,0
+141,799,4,Radio Rig SMP MNC560 Original Rig Mobile Android Gateway,Motorola MTP3150 (800 Mhz),0.689615905,smp,motorola,0,0
+141,745,5,Radio Rig SMP MNC560 Original Rig Mobile Android Gateway,Motorola MTP3150 (800 Mhz),0.689615905,smp,motorola,0,0
+142,1130,1,Handsfree Hytera EAN23 Original Headset HT Hytera PD788 PD788G Baru,Hytera RD968 VHF (136-174 Mhz.),0.754219174,hytera,hytera,0,0
+142,1057,2,Handsfree Hytera EAN23 Original Headset HT Hytera PD788 PD788G Baru,Hytera RD 968 UHF (400-470Mhz),0.749917448,hytera,hytera,0,0
+142,1003,3,Handsfree Hytera EAN23 Original Headset HT Hytera PD788 PD788G Baru,Hytera RD988 UHF (400-440 MHz),0.696572483,hytera,hytera,0,0
+142,523,4,Handsfree Hytera EAN23 Original Headset HT Hytera PD788 PD788G Baru,Hytera PD688,0.685819864,hytera,hytera,0,0
+142,485,5,Handsfree Hytera EAN23 Original Headset HT Hytera PD788 PD788G Baru,Hytera HP788,0.677435637,hytera,hytera,0,0
+143,1039,1,HT POC Inrico T320 Original Handy Talky Jarak Jauh 4G LTE Waterproof Baru Garansi Resmi,BARINDO LD 210E,0.628035009,inrico,barindo,0,0
+143,537,2,HT POC Inrico T320 Original Handy Talky Jarak Jauh 4G LTE Waterproof Baru Garansi Resmi,KIRISUN T350,0.563834548,inrico,kirisun,0,0
+143,687,3,HT POC Inrico T320 Original Handy Talky Jarak Jauh 4G LTE Waterproof Baru Garansi Resmi,Simoco EMEA SDP760 T1,0.54611063,inrico,simoco emea,0,0
+143,536,4,HT POC Inrico T320 Original Handy Talky Jarak Jauh 4G LTE Waterproof Baru Garansi Resmi,Simoco SimocoXd/SDP760 (136-174 MHz,0.53886497,inrico,simoco,0,0
+143,231,5,HT POC Inrico T320 Original Handy Talky Jarak Jauh 4G LTE Waterproof Baru Garansi Resmi,Voxter UV-X5 ( 136-174 Mhz & 400-430 Mhz ),0.524203181,inrico,voxter,0,0
+144,580,1,HT Hytera AP588 Single Band Original Garansi Resmi,HYTERA PD788G U(1),0.63798964,hytera,hytera,0,0
+144,1238,2,HT Hytera AP588 Single Band Original Garansi Resmi,GUANRI GRRPT-800,0.635576129,hytera,guanri,0,0
+144,523,3,HT Hytera AP588 Single Band Original Garansi Resmi,Hytera PD688,0.633965492,hytera,hytera,0,0
+144,1239,4,HT Hytera AP588 Single Band Original Garansi Resmi,GUANRI GRRPT-8019,0.631195784,hytera,guanri,0,0
+144,455,5,HT Hytera AP588 Single Band Original Garansi Resmi,Hytera PTC680,0.620335579,hytera,hytera,0,0
+145,71,1,HT Dual Band Baofeng BF-H6 VHF 144-148MHz UHF 420-450MHz,Baofeng BF-UV5R,0.749581099,baofeng,baofeng,0,0
+145,65,2,HT Dual Band Baofeng BF-H6 VHF 144-148MHz UHF 420-450MHz,BAOFENG BF-H6,0.747895122,baofeng,baofeng,1,0
+145,172,3,HT Dual Band Baofeng BF-H6 VHF 144-148MHz UHF 420-450MHz,Baofeng Baofeng / BF-UV5R,0.743564129,baofeng,baofeng,0,0
+145,64,4,HT Dual Band Baofeng BF-H6 VHF 144-148MHz UHF 420-450MHz,Baofeng H-7,0.73411274,baofeng,baofeng,0,0
+145,13,5,HT Dual Band Baofeng BF-H6 VHF 144-148MHz UHF 420-450MHz,Baofeng BF-A58,0.714935482,baofeng,baofeng,0,0
+146,1061,1,HT Kenwood NX-1200D-M3 VHF 136-174 MHz DMR Digital Full Keypad Original,KENWOOD NXR-918 (Freq. 806-870 MHz),0.627666473,kenwood,kenwood,0,0
+146,1184,2,HT Kenwood NX-1200D-M3 VHF 136-174 MHz DMR Digital Full Keypad Original,KENWOOD TKR-850,0.613289893,kenwood,kenwood,0,0
+146,1084,3,HT Kenwood NX-1200D-M3 VHF 136-174 MHz DMR Digital Full Keypad Original,KENWOOD NXR-710 (136-174 MHz),0.600330949,kenwood,kenwood,0,0
+146,1264,4,HT Kenwood NX-1200D-M3 VHF 136-174 MHz DMR Digital Full Keypad Original,KENWOOD NXR-810,0.597953796,kenwood,kenwood,0,0
+146,1248,5,HT Kenwood NX-1200D-M3 VHF 136-174 MHz DMR Digital Full Keypad Original,KENWOOD TKR-850 - K3 : 400-430 Mhz,0.590907097,kenwood,kenwood,0,0
+147,503,1,"Antena Diamond HF-80FX Antena HF 3,5 MHz Radio Rig SSB HF80",Motorola XiR C2660,0.715525746,,motorola,0,1
+147,513,2,"Antena Diamond HF-80FX Antena HF 3,5 MHz Radio Rig SSB HF80",Hytera HM688,0.715296566,,hytera,0,1
+147,219,3,"Antena Diamond HF-80FX Antena HF 3,5 MHz Radio Rig SSB HF80",Xiamen X-008 VHF : 136-174 MHz UHF : 400-440 MHz,0.711831391,,xiamen,0,1
+147,291,4,"Antena Diamond HF-80FX Antena HF 3,5 MHz Radio Rig SSB HF80",JACOM JACOM JC-668 VHF 136-174Mhz,0.707129598,,jacom,0,1
+147,508,5,"Antena Diamond HF-80FX Antena HF 3,5 MHz Radio Rig SSB HF80",Motorola XiR C2620,0.706617832,,motorola,0,1
+148,1078,1,SWR Meter Digital Nissei DG-503 MAX Original SWR Watt Meter Digital,Simoco SimocoXd/SDB680 ( 136-174 MHz ) 50 Watt,0.682079554,,simoco,0,1
+148,1081,2,SWR Meter Digital Nissei DG-503 MAX Original SWR Watt Meter Digital,Hytera RD 988 VHF  (136-174 Mhz.) <= 50 Watt,0.665891886,,hytera,0,1
+148,1080,3,SWR Meter Digital Nissei DG-503 MAX Original SWR Watt Meter Digital,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.663503289,,hytera,0,1
+148,1069,4,SWR Meter Digital Nissei DG-503 MAX Original SWR Watt Meter Digital,Hytera RD 988 UHF  (400-440 Mhz.) <= 50 watt,0.663503289,,hytera,0,1
+148,1070,5,SWR Meter Digital Nissei DG-503 MAX Original SWR Watt Meter Digital,Hytera RD 988 UHF 350-400 Mhz <= 50 Watt,0.66186291,,hytera,0,1
+149,291,1,Diamond BB6WS Antena HF 3-30MHz 6.4m Long Wire Antenna SSB Radio Rig,JACOM JACOM JC-668 VHF 136-174Mhz,0.64854753,,jacom,0,1
+149,882,2,Diamond BB6WS Antena HF 3-30MHz 6.4m Long Wire Antenna SSB Radio Rig,KIRISUN PT3800 (1) (Freq. 136-174 Mhz),0.64792037,,kirisun,0,1
+149,441,3,Diamond BB6WS Antena HF 3-30MHz 6.4m Long Wire Antenna SSB Radio Rig,"HYT TC-600U (5), Freq. 350-370 MHz",0.646439433,,hyt,0,1
+149,883,4,Diamond BB6WS Antena HF 3-30MHz 6.4m Long Wire Antenna SSB Radio Rig,KIRISUN PT6500-01 (Freq. 136-174 Mhz),0.645320654,,kirisun,0,1
+149,708,5,Diamond BB6WS Antena HF 3-30MHz 6.4m Long Wire Antenna SSB Radio Rig,Mag One VZ28 (136-174 MHz),0.645094037,,mag one,0,1
+150,753,1,HT Airband Yaesu FTA-750L Original HT HF Airband,HYT By Hytera TC 518 UHF (350-390 MHz),0.756936908,yaesu,hyt by hytera,0,0
+150,754,2,HT Airband Yaesu FTA-750L Original HT HF Airband,HYT By Hytera TC 580 UHF (350-390 MHz),0.755040646,yaesu,hyt by hytera,0,0
+150,752,3,HT Airband Yaesu FTA-750L Original HT HF Airband,HYT By Hytera TC 700 UHF (350-390 MHz),0.75127542,yaesu,hyt by hytera,0,0
+150,502,4,HT Airband Yaesu FTA-750L Original HT HF Airband,HYTERA HM688,0.746867478,yaesu,hytera,0,0
+150,642,5,HT Airband Yaesu FTA-750L Original HT HF Airband,HYT By Hytera TC-700 UHF (350-390 MHz),0.743566155,yaesu,hyt by hytera,0,0
+151,905,1,HT VEV 3288D UHF 400-470 MHz Original HT VEV 3288D Baru,Hytera HR1068 UHF 350 - 400 MHz,0.778113544,vev,hytera,0,0
+151,930,2,HT VEV 3288D UHF 400-470 MHz Original HT VEV 3288D Baru,Motorola SLR 5300,0.757994413,vev,motorola,0,0
+151,1004,3,HT VEV 3288D UHF 400-470 MHz Original HT VEV 3288D Baru,MOTOROLA SLR 5300 403-438 MHz,0.757251918,vev,motorola,0,0
+151,932,4,HT VEV 3288D UHF 400-470 MHz Original HT VEV 3288D Baru,MOTOROLA SLR 5300,0.756990731,vev,motorola,0,0
+151,913,5,HT VEV 3288D UHF 400-470 MHz Original HT VEV 3288D Baru,Motorola SLR8000,0.754670501,vev,motorola,0,0
+152,1135,1,Antena Base Station Diamond X700H Original Antena Radio Base Station Dual Band Original Untuk Repeater dan Radio Rig,Spectra Engineering MX800,0.718367517,,spectra engineering,0,1
+152,1155,2,Antena Base Station Diamond X700H Original Antena Radio Base Station Dual Band Original Untuk Repeater dan Radio Rig,SPECTRA MX 800,0.708668947,,spectra,0,1
+152,1152,3,Antena Base Station Diamond X700H Original Antena Radio Base Station Dual Band Original Untuk Repeater dan Radio Rig,SPECTRA MX800 (805-870 MHz),0.686766863,,spectra,0,1
+152,383,4,Antena Base Station Diamond X700H Original Antena Radio Base Station Dual Band Original Untuk Repeater dan Radio Rig,TAIT TB8200 Base Station / Repeater (148-174 MHz),0.68444109,,tait,0,1
+152,1149,5,Antena Base Station Diamond X700H Original Antena Radio Base Station Dual Band Original Untuk Repeater dan Radio Rig,SIMOCO Simoco Xd / SDB670,0.672841549,,simoco,0,1
+153,983,1,HT POC Motorola RG170 Original HT Jarak Jauh RugGear RG170,Motorola SLR 5300 VHF 136-174 MHz,0.78192699,motorola,motorola,0,0
+153,930,2,HT POC Motorola RG170 Original HT Jarak Jauh RugGear RG170,Motorola SLR 5300,0.779508948,motorola,motorola,0,0
+153,935,3,HT POC Motorola RG170 Original HT Jarak Jauh RugGear RG170,MOTOROLA SLR 5300,0.776000261,motorola,motorola,0,0
+153,1007,4,HT POC Motorola RG170 Original HT Jarak Jauh RugGear RG170,"MOTOROLA SLR 5300, 136 - 174 MHz",0.773869395,motorola,motorola,0,0
+153,1046,5,HT POC Motorola RG170 Original HT Jarak Jauh RugGear RG170,Motorola SLR 5300 (136 - 174 MHz),0.767652154,motorola,motorola,0,0
+154,1158,1,Antena HY-GAIN V4R USA Baru Antena Radio Base Station V4R,Hytera TBU998,0.692378879,,hytera,0,1
+154,873,2,Antena HY-GAIN V4R USA Baru Antena Radio Base Station V4R,Vertex Standard VX-351-D0-5 ( VHF : 134-174 MHz ),0.688359261,,vertex standard,0,1
+154,748,3,Antena HY-GAIN V4R USA Baru Antena Radio Base Station V4R,Hytera PD788G VHF,0.686407447,,hytera,0,1
+154,874,4,Antena HY-GAIN V4R USA Baru Antena Radio Base Station V4R,Vertex Standard VX-351-G6-5 ( UHF : 400-438 MHz ),0.683592677,,vertex standard,0,1
+154,580,5,Antena HY-GAIN V4R USA Baru Antena Radio Base Station V4R,HYTERA PD788G U(1),0.680497825,,hytera,0,1
+155,931,1,HT Digital Mag One X10d Original Handy Talky Motorola Waterproof,MOTOROLA SLR5300,0.537254333,motorola,motorola,0,0
+155,982,2,HT Digital Mag One X10d Original Handy Talky Motorola Waterproof,Motorola SLR 5300 UHF 350-400 MHz,0.534532428,motorola,motorola,0,0
+155,985,3,HT Digital Mag One X10d Original Handy Talky Motorola Waterproof,Motorola MTR 2000,0.532387018,motorola,motorola,0,0
+155,533,4,HT Digital Mag One X10d Original Handy Talky Motorola Waterproof,MOTOROLA MTP6650,0.529593647,motorola,motorola,0,0
+155,997,5,HT Digital Mag One X10d Original Handy Talky Motorola Waterproof,Motorola SLR 5300 (410 -430 Mhz),0.527505755,motorola,motorola,0,0
+156,395,1,HT Standard Horizon HX400IS Original HT VHF Marine,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.666183352,,icom,0,1
+156,286,2,HT Standard Horizon HX400IS Original HT VHF Marine,ICOM VHF Marine Transceiver / IC-M36 (Freq. 156.025 - 163.275 MHz),0.666183352,,icom,0,1
+156,314,3,HT Standard Horizon HX400IS Original HT VHF Marine,ICOM VHF Marine Transceiver / IC-M504 (Freq. 156.025 - 163.275 MHz),0.66416657,,icom,0,1
+156,597,4,HT Standard Horizon HX400IS Original HT VHF Marine,HYT By Hytera TC 580 VHF (136-174 MHz),0.649796784,,hyt by hytera,0,1
+156,1116,5,HT Standard Horizon HX400IS Original HT VHF Marine,Global Wave GW-ICS-WCDMA 2100-17,0.647884727,,global wave,0,1
+157,114,1,Microphone Motorola HMN3413AR Original Extra Mic Radio Rig Mobile Motorola GM3688,Motorola RLN 6544/PMMN4095A Wireless Remote Speaker Microphone,0.815750778,motorola,motorola,0,0
+157,531,2,Microphone Motorola HMN3413AR Original Extra Mic Radio Rig Mobile Motorola GM3688,Motorola MTP3550,0.791470408,motorola,motorola,0,0
+157,601,3,Microphone Motorola HMN3413AR Original Extra Mic Radio Rig Mobile Motorola GM3688,Motorola XiR C2620,0.790416598,motorola,motorola,0,0
+157,568,4,Microphone Motorola HMN3413AR Original Extra Mic Radio Rig Mobile Motorola GM3688,Motorola XiR C2620,0.790416598,motorola,motorola,0,0
+157,499,5,Microphone Motorola HMN3413AR Original Extra Mic Radio Rig Mobile Motorola GM3688,MOTOROLA XiR C2620,0.790416598,motorola,motorola,0,0
+158,972,1,Kabel Program Hytera PC49 Kabel Data Repeater Hytera RD988,HYTERA HR1068,0.750802755,hytera,hytera,0,0
+158,962,2,Kabel Program Hytera PC49 Kabel Data Repeater Hytera RD988,HYTERA HR1068,0.750802755,hytera,hytera,0,0
+158,1042,3,Kabel Program Hytera PC49 Kabel Data Repeater Hytera RD988,Hytera RD988S U(1),0.750648141,hytera,hytera,0,0
+158,1053,4,Kabel Program Hytera PC49 Kabel Data Repeater Hytera RD988,Hytera E-PACK 100U(3) (350-400Mhz),0.730935037,hytera,hytera,0,0
+158,1100,5,Kabel Program Hytera PC49 Kabel Data Repeater Hytera RD988,EXCERA ER9000 U1,0.708801687,hytera,excera,0,0
+159,233,1,Kabel Program Alinco ERW-15 Original Kabel Program HT Alinco DJ-CRX7 Plus,Alinco DJ-VX10,0.758457482,alinco,alinco,0,0
+159,232,2,Kabel Program Alinco ERW-15 Original Kabel Program HT Alinco DJ-CRX7 Plus,Alinco DJ-VX50,0.739141583,alinco,alinco,0,0
+159,687,3,Kabel Program Alinco ERW-15 Original Kabel Program HT Alinco DJ-CRX7 Plus,Simoco EMEA SDP760 T1,0.628540158,alinco,simoco emea,0,0
+159,587,4,Kabel Program Alinco ERW-15 Original Kabel Program HT Alinco DJ-CRX7 Plus,Excera EP8100 U1,0.607922733,alinco,excera,0,0
+159,158,5,Kabel Program Alinco ERW-15 Original Kabel Program HT Alinco DJ-CRX7 Plus,REDELL DL-9900,0.605149269,alinco,redell,0,0

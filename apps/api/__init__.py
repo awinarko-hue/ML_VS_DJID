@@ -1,0 +1,3 @@
+"""
+SITRUS API Application package.
+"""

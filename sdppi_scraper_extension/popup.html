@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Agus Winarko — HT Marketplace Scraper</title>
+<style>
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:-apple-system,'Segoe UI',sans-serif; width:380px; background:#0f1117; color:#e2e8f0; font-size:13px; }
+  .header { background:linear-gradient(135deg,#1e3a5f,#0f2744); padding:14px 16px 12px; border-bottom:1px solid #1e3a8a33; }
+  .header-title { font-size:15px; font-weight:700; color:#93c5fd; }
+  .header-sub   { font-size:11px; color:#64748b; margin-top:2px; }
+  .status-bar { display:flex; align-items:center; gap:8px; padding:8px 16px; background:#0d1520; border-bottom:1px solid #1e293b; font-size:11px; }
+  .dot { width:7px; height:7px; border-radius:50%; flex-shrink:0; }
+  .dot.ok   { background:#22c55e; box-shadow:0 0 6px #22c55e88; }
+  .dot.warn { background:#f59e0b; }
+  .badge { display:inline-block; padding:2px 8px; border-radius:99px; font-size:10px; font-weight:600; }
+  .badge-shopee  { background:#3b0d00; color:#fb923c; border:1px solid #7c2d12; }
+  .badge-toped   { background:#1a3a0a; color:#4ade80; border:1px solid #166534; }
+  .badge-unknown { background:#1e293b; color:#64748b; border:1px solid #334155; }
+  .body { padding:14px 16px; display:flex; flex-direction:column; gap:10px; }
+  .stats { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; }
+  .stat-card { background:#1e293b; border-radius:8px; padding:10px 8px; text-align:center; border:1px solid #334155; }
+  .stat-num   { font-size:22px; font-weight:700; color:#93c5fd; line-height:1; }
+  .stat-label { font-size:10px; color:#64748b; margin-top:3px; }
+  .progress-wrap { height:6px; background:#1e293b; border-radius:99px; overflow:hidden; display:none; }
+  .progress-wrap.show { display:block; }
+  .progress-bar { height:100%; border-radius:99px; transition:width .3s; }
+  .progress-bar.blue  { background:#2563eb; }
+  .progress-bar.green { background:#22c55e; }
+  .btn { width:100%; padding:9px 12px; border-radius:7px; border:none; font-size:12px; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:6px; transition:filter .15s,transform .1s; }
+  .btn:hover  { filter:brightness(1.15); }
+  .btn:active { transform:scale(.98); }
+  .btn:disabled { opacity:.4; cursor:not-allowed; filter:none; }
+  .btn-primary { background:#2563eb; color:#fff; }
+  .btn-scroll  { background:#1e3a5f; color:#93c5fd; border:1px solid #1e40af; }
+  .btn-diag    { background:#2d1b69; color:#c4b5fd; border:1px solid #4c1d95; }
+  .btn-img     { background:#064e3b; color:#6ee7b7; border:1px solid #065f46; }
+  .btn-csv     { background:#166534; color:#bbf7d0; }
+  .btn-json    { background:#1e293b; color:#94a3b8; border:1px solid #334155; }
+  .btn-clear   { background:#3b0000; color:#fca5a5; border:1px solid #7f1d1d; }
+  .btn-row     { display:flex; gap:6px; }
+  .btn-row .btn { flex:1; }
+  .nav-hint { display:none; background:#1c1208; border:1px solid #92400e; border-radius:8px; padding:10px 12px; font-size:11px; color:#fbbf24; line-height:1.7; }
+  .img-progress { display:none; background:#0a1f0f; border:1px solid #065f46; border-radius:8px; padding:10px 12px; font-size:11px; }
+  .img-progress .row { display:flex; justify-content:space-between; margin-bottom:6px; color:#6ee7b7; }
+  .img-progress .detail { color:#475569; font-size:10px; margin-top:4px; }
+  .session-list { max-height:80px; overflow-y:auto; display:flex; flex-direction:column; gap:4px; }
+  .session-item { display:flex; justify-content:space-between; align-items:center; background:#1e293b; border-radius:6px; padding:6px 10px; border:1px solid #334155; font-size:11px; }
+  .session-seller { color:#cbd5e1; font-weight:500; max-width:210px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .session-count  { color:#4ade80; font-weight:600; }
+  .log { background:#0d1520; border:1px solid #1e293b; border-radius:6px; padding:8px 10px; font-size:10.5px; font-family:monospace; min-height:36px; max-height:72px; overflow-y:auto; line-height:1.6; }
+  .log .ok   { color:#4ade80; display:block; }
+  .log .warn { color:#fbbf24; display:block; }
+  .log .err  { color:#f87171; display:block; }
+  .log .info { color:#93c5fd; display:block; }
+  .divider { border:none; border-top:1px solid #1e293b; }
+  .tip { background:#0f1117; border:1px solid #1e293b; border-radius:8px; padding:10px 12px; font-size:11px; line-height:1.9; }
+  .tip .row { margin-bottom:2px; }
+  .ok-url  { color:#4ade80; }
+  .bad-url { color:#f87171; text-decoration:line-through; }
+  .dim     { color:#475569; }
+  .sec-label { font-size:10px; color:#475569; text-transform:uppercase; letter-spacing:.5px; margin-bottom:4px; }
+  .drive-info { background:#0f1f0a; border:1px solid #166534; border-radius:6px; padding:8px 10px; font-size:10.5px; color:#4ade80; }
+  .drive-info span { color:#6ee7b7; font-family:monospace; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-title">Agus Winarko — HT Scraper <span style="font-size:10px;color:#475569">v7.0</span></div>
+  <div class="header-sub">S2 AMIKOM Yogyakarta · NIM 25.55.2877</div>
+</div>
+<div class="status-bar">
+  <div class="dot" id="dot"></div>
+  <span id="status-text">Mendeteksi...</span>
+  <span style="margin-left:auto" id="platform-badge"></span>
+</div>
+<div class="body">
+
+  <!-- Stats -->
+  <div class="stats">
+    <div class="stat-card"><div class="stat-num" id="stat-total">0</div><div class="stat-label">Total produk</div></div>
+    <div class="stat-card"><div class="stat-num" id="stat-page">0</div><div class="stat-label">Halaman ini</div></div>
+    <div class="stat-card"><div class="stat-num" id="stat-sellers">0</div><div class="stat-label">Seller</div></div>
+  </div>
+
+  <!-- Nav hint -->
+  <div class="nav-hint" id="nav-hint"></div>
+
+  <!-- Progress scraping -->
+  <div class="progress-wrap" id="progress-wrap">
+    <div class="progress-bar blue" id="progress-bar" style="width:0%"></div>
+  </div>
+
+  <!-- Tombol utama -->
+  <button class="btn btn-scroll"  id="btn-scroll">↕ Auto-scroll (muat semua produk)</button>
+  <button class="btn btn-primary" id="btn-scrape">⬇ Scrape produk di halaman ini</button>
+
+  <!-- Tombol download gambar — tampil setelah ada produk -->
+  <button class="btn btn-img" id="btn-img" style="display:none">
+    🖼 Download Gambar → Google Drive
+  </button>
+
+  <!-- Progress download gambar -->
+  <div class="img-progress" id="img-progress">
+    <div class="row">
+      <span>Download gambar</span>
+      <span id="img-prog-text">0 / 0</span>
+    </div>
+    <div class="progress-wrap show" style="display:block">
+      <div class="progress-bar green" id="img-prog-bar" style="width:0%"></div>
+    </div>
+    <div class="detail" id="img-prog-detail">Menunggu...</div>
+    <div class="detail" id="img-prog-stats"></div>
+  </div>
+
+  <!-- Info folder tujuan -->
+  <div class="drive-info" id="drive-info" style="display:none">
+    📁 Gambar tersimpan di:<br>
+    <span id="drive-path">Downloads\Tesis_SDPPI\images\&lt;seller&gt;\</span><br>
+    <span style="color:#475569;font-size:10px">Jika folder Downloads = Google Drive → otomatis sync ke Drive ✅</span>
+  </div>
+
+  <!-- Diagnosa -->
+  <button class="btn btn-diag" id="btn-diag">🔍 Diagnosa DOM</button>
+
+  <!-- Sesi -->
+  <div>
+    <div class="sec-label">Sesi scraping</div>
+    <div class="session-list" id="session-list">
+      <div style="color:#334155;font-size:11px">Belum ada sesi.</div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- Kirim ke SITRUS API -->
+  <button class="btn" id="btn-sitrus" style="background:linear-gradient(135deg,#4f46e5,#3b82f6);color:#fff;font-weight:700;box-shadow:0 0 10px rgba(79,70,229,0.35);padding:10px 12px;margin-top:2px;">
+    🚀 Kirim Langsung ke SITRUS (API)
+  </button>
+
+  <!-- Download CSV + JSON + Reset -->
+  <div class="btn-row">
+    <button class="btn btn-csv"   id="btn-csv">⬇ CSV</button>
+    <button class="btn btn-json"  id="btn-json">{ } JSON</button>
+    <button class="btn btn-clear" id="btn-clear">✕ Reset</button>
+  </div>
+
+  <!-- Log -->
+  <div class="log" id="log"><span class="info">Siap.</span></div>
+
+  <!-- Panduan URL -->
+  <div class="tip">
+    <div class="row"><span style="color:#fb923c;font-weight:600">SHOPEE</span></div>
+    <div class="row bad-url">shopee.co.id/ucomm.id#product_list</div>
+    <div class="row ok-url">✓ shopee.co.id/ucomm.id?tab=shop&page=1</div>
+    <div class="row" style="margin-top:6px"><span style="color:#4ade80;font-weight:600">TOKOPEDIA</span></div>
+    <div class="row ok-url">✓ tokopedia.com/pusatht-official-store/product</div>
+    <div class="row dim" style="margin-top:4px">Auto-scroll → Scrape → Download Gambar → CSV</div>
+  </div>
+
+</div>
+<script src="popup.js"></script>
+</body>
+</html>

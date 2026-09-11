@@ -1,0 +1,20 @@
+{
+  "versi": "v1.0.0",
+  "djid_checksum": "fdcc3ecfd33b64d439493ed35d717237718175c7453ceb6f762819eb35cbe3c2",
+  "djid_total_entries": 1333,
+  "random_seed": 42,
+  "doc_variant": "brand_model_marketing",
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "metrics": {
+    "production_7_features": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "evaluable_5_features": {
+      "precision": 0.4104,
+      "recall": 0.873,
+      "f1": 0.5584
+    }
+  }
+}

@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    environment:
+      - DATABASE_URL=sqlite:///./sitrus_prod.db
+      - REDIS_URL=redis://redis:6379/0
+      - PYTHONPATH=/app/packages:/app
+    volumes:
+      - ./Artefak:/app/Artefak
+      - ./sitrus_prod.db:/app/sitrus_prod.db
+    depends_on:
+      - redis
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "-c", "from apps.worker.tasks import get_worker_triage_system; get_worker_triage_system(); print('Worker ready')"]
+    environment:
+      - DATABASE_URL=sqlite:///./sitrus_prod.db
+      - REDIS_URL=redis://redis:6379/0
+      - PYTHONPATH=/app/packages:/app
+    volumes:
+      - ./Artefak:/app/Artefak
+      - ./sitrus_prod.db:/app/sitrus_prod.db
+    depends_on:
+      - redis
+      - api
+    restart: unless-stopped

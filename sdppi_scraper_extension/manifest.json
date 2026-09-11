@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "Agus Winarko — HT Marketplace Scraper",
+  "version": "6.0.0",
+  "description": "Tesis S2 AMIKOM Yogyakarta | NIM 25.55.2877 | Scraping produk HT/Radio per seller Tokopedia & Shopee → dataset listing_marketplace.csv untuk penelitian deteksi sertifikasi SDPPI/DJID",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://*.tokopedia.com/*",
+    "https://*.shopee.co.id/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.tokopedia.com/*",
+        "https://*.shopee.co.id/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
