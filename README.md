@@ -1,124 +1,131 @@
-# SITRUS — Sistem Triase Sertifikasi Perangkat
+# SITRUS — Sistem Triase Sertifikasi Perangkat (Device Certification Triage System)
 
-**SITRUS (Sistem Triase Sertifikasi Perangkat)** adalah platform web internal untuk membantu analis pengawasan spektrum frekuensi dan standardisasi perangkat (DJID / Balmon, Kementerian Komunikasi dan Informatika) dalam menyaring listing marketplace terhadap basis data sertifikasi perangkat telekomunikasi DJID secara otomatis, akurat, dan dapat dipertanggungjawabkan secara hukum.
-
----
-
-## ⚖️ Prinsip Asimetri Hukum
-
-Keluaran sistem ini memiliki **konsekuensi hukum** langsung bagi pemilik toko/listing:
-- **Kesalahan Tipe I (False Accusation):** Menuduh produk yang sebenarnya bersertifikat sebagai "tidak bersertifikat". Kesalahan ini sangat mahal dan merugikan reputasi serta kepatuhan penjual yang sah.
-- **Kesalahan Tipe II (Missed Uncertified):** Meloloskan produk tidak bersertifikat ke zona peninjauan manusia.
-
-Oleh karena itu, **status negatif (`TERINDIKASI_TIDAK_BERSERTIFIKAT`) tidak pernah dirender tanpa tanggal snapshot DJID dan status verifikasi manusia pada elemen UI yang sama**, dan sistem **tidak pernah mengeksekusi penindakan otomatis** tanpa putusan analis pengawasan.
+**SITRUS (Sistem Triase Sertifikasi Perangkat)** is an internal web platform that helps spectrum monitoring and device standardization analysts (DJID / Balmon, Kementerian Komunikasi dan Informatika — the Indonesian Ministry of Communications and Informatics) screen marketplace listings against the DJID telecommunications device certification database: automatically, accurately, and in a way that can be defended legally.
 
 ---
 
-## 🏛️ Arsitektur Sistem
+## ⚖️ The Legal Asymmetry Principle
+
+This system's output carries direct **legal consequences** for shop and listing owners:
+- **Type I error (false accusation):** flagging a genuinely certified product as "uncertified". This error is extremely costly and damages both the reputation and the compliance record of legitimate sellers.
+- **Type II error (missed uncertified device):** letting an uncertified product through to the human review queue.
+
+For that reason, a negative status (`TERINDIKASI_TIDAK_BERSERTIFIKAT`) **is never rendered without the DJID snapshot date and the human verification status appearing in the same UI element**, and the system **never carries out automated enforcement** without a ruling from a monitoring analyst.
+
+---
+
+## 🏛️ System Architecture
 
 ```mermaid
 graph TD
-    A[Scraper Marketplace] -->|ingest.py| B[(Database SQLite / PostgreSQL)]
-    C[Basis Data DJID.csv] -->|ingest.py| B
+    A[Marketplace Scraper] -->|ingest.py| B[(SQLite / PostgreSQL Database)]
+    C[DJID.csv Certification Database] -->|ingest.py| B
     
     subgraph Core Engine: packages/ertriage
-        D[text.py: Normalisasi & Noise Removal]
-        E[brands.py: Deteksi Merek & Alias Kanonik]
+        D[text.py: Normalization & Noise Removal]
+        E[brands.py: Brand Detection & Canonical Aliases]
         F[retrieval.py: Dual-Path Retrieval Aho-Corasick + FAISS + BM25]
-        G[features.py: Ekstraksi Vektor 7/5 Fitur]
-        H[triage.py: Decision Layer 6 Aturan Bisnis]
+        G[features.py: 7/5 Feature Vector Extraction]
+        H[triage.py: Decision Layer, 6 Business Rules]
     end
     
     B --> Core Engine
     Core Engine --> I[FastAPI: apps/api]
-    Core Engine --> J[Worker RQ: apps/worker]
+    Core Engine --> J[RQ Worker: apps/worker]
     
     I -->|REST API| K[React 18 Dashboard & Review UI]
-    K -->|Verifikasi Manusia| B
+    K -->|Human Verification| B
 ```
 
 ---
 
-## 🚀 Panduan Memulai Cepat (Quickstart)
+## 🚀 Quickstart
 
-### 1. Persyaratan Sistem
+### 1. System Requirements
 - Python 3.11+
-- Node.js 18+ (opsional untuk pengembangan frontend independen)
+- Node.js 18+ (optional, for standalone frontend development)
 
-### 2. Instalasi Dependensi
+### 2. Installing Dependencies
 ```bash
-# Clone repository dan masuk ke direktori
+# Clone the repository and enter the directory
 pip install -e .
 pip install tabulate pytest pytest-cov
 ```
 
-### 3. Ingest Data DJID & Listing Marketplace
+### 3. Ingesting DJID Data and Marketplace Listings
 ```bash
-# Ingest snapshot DJID resmi
+# Ingest the official DJID snapshot
 python pipelines/ingest.py djid --file Artefak/DJID.csv --snapshot-date 2026-03-01
 
-# Ingest data listing scraper marketplace
+# Ingest scraped marketplace listing data
 python pipelines/ingest.py marketplace --file Artefak/listing_marketplace.csv --source Tokopedia
 ```
 
-### 4. Bangun Ulang Artefak & Model (Rebuild Pipeline)
+### 4. Rebuilding Artifacts and Models (Rebuild Pipeline)
 ```bash
 python pipelines/build.py --djid Artefak/DJID.csv --listings Artefak/listing_marketplace.csv --output-dir Artefak
 ```
 
-### 5. Evaluasi Retrieval & Kalibrasi
+### 5. Retrieval Evaluation and Calibration
 ```bash
-# Evaluasi Dense vs BM25 vs Hybrid RRF pada seluruh 1.019 listing
+# Evaluate Dense vs BM25 vs Hybrid RRF across all 1,019 listings
 python pipelines/evaluate.py
 
-# Kalibrasi ambang batas keputusan
+# Calibrate the decision thresholds
 python pipelines/calibrate.py
 ```
 
-### 6. Menjalankan Aplikasi Web SITRUS
+### 6. Running the SITRUS Web Application
 ```bash
-# Jalankan FastAPI server (melayani API dan UI frontend pada port 3001)
+# Start the FastAPI server (serves both the API and the frontend UI on port 3001)
 uvicorn apps.api.main:app --host 127.0.0.1 --port 3001
 ```
-Buka peramban di: **`http://127.0.0.1:3001/`**
+Open your browser at: **`http://127.0.0.1:3001/`**
 
 ---
 
-## 🧪 Menjalankan Pengujian (Test Suite)
+## 🧪 Running the Test Suite
 
-Repositori ini dilengkapi dengan 36 suite unit test, integration test, dan **golden parity tests**:
+The repository ships with 36 unit, integration, and **golden parity** test suites:
 ```bash
 pytest tests/ --cov=ertriage --cov=apps.api --cov-report=term-missing
 ```
 
-### Fitur Golden Parity:
-1. `tests/golden/test_feature_parity.py`: Memverifikasi vektor 7-fitur hasil `packages/ertriage/features.py` **100% byte-identical** terhadap `Artefak/dataset_fitur_final.csv`.
-2. `tests/golden/test_rebuild_determinism.py`: Memverifikasi integritas seluruh artefak fisik terhadap checksum SHA-256 di `Artefak/manifest.json`.
+### Golden Parity Features:
+1. `tests/golden/test_feature_parity.py`: verifies that the 7-feature vectors produced by `packages/ertriage/features.py` are **100% byte-identical** to `Artefak/dataset_fitur_final.csv`.
+2. `tests/golden/test_rebuild_determinism.py`: verifies the integrity of every physical artifact against the SHA-256 checksums in `Artefak/manifest.json`.
 
 ---
 
-## 📊 Hasil Benchmark Retrieval (Seluruh 1.019 Listing)
+## 📊 Retrieval Benchmark Results (All 1,019 Listings)
 
-Evaluasi retrieval dihitung secara adil atas **seluruh listing marketplace** tanpa membuang listing non-match:
+Retrieval metrics are computed fairly across **every marketplace listing**, without discarding non-matching listings:
 
-| Varian Retrieval | Recall@5 (GT) | Recall@10 (GT) | Recall@20 (GT) | Recall@50 (GT) | MRR (Seluruh Korpus) |
+| Retrieval Variant | Recall@5 (GT) | Recall@10 (GT) | Recall@20 (GT) | Recall@50 (GT) | MRR (Full Corpus) |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Dense-Only (Standard Dokumen)** | 0.3316 | 0.4105 | 0.5368 | 0.6737 | 0.0490 |
-| **Dense-Only (Merk + Model)** | 0.3842 | 0.4421 | 0.5263 | 0.6632 | 0.0528 |
+| **Dense-Only (Standard Document)** | 0.3316 | 0.4105 | 0.5368 | 0.6737 | 0.0490 |
+| **Dense-Only (Brand + Model)** | 0.3842 | 0.4421 | 0.5263 | 0.6632 | 0.0528 |
 | **Hybrid Retrieval (Dense + BM25 via RRF)** | **0.5211** | **0.6842** | **0.8105** | **0.9263** | **0.0793** |
 
-*Hybrid retrieval meningkatkan Recall@20 sebesar +27.4% dan Recall@50 hingga 92.6% terutama pada nomor model alfanumerik spesifik (seperti `IC-V88`, `MD-T20`, `UV-5R`).*
+*Hybrid retrieval improves Recall@20 by +27.4% and pushes Recall@50 to 92.6%, most notably on specific alphanumeric model numbers such as `IC-V88`, `MD-T20`, and `UV-5R`.*
 
 ---
 
-## 📑 Ekspor Gold Set Anotasi Manusia
+## 📑 Exporting the Human-Annotated Gold Set
 
-Untuk keperluan evaluasi berkala dan active learning:
+For periodic evaluation and active learning:
 ```bash
 python pipelines/export_goldset.py --output Artefak/gold_set_annotated.csv --format csv
 ```
 
 ---
+
+## 🐳 Docker Compose Deployment
+
+```bash
+docker-compose up --build -d
+```
+The services will be available at `http://localhost:3001`.
 
 ## 🐳 Deployment Docker Compose
 
