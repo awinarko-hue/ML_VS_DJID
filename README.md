@@ -16,6 +16,7 @@ For that reason, a negative status (`TERINDIKASI_TIDAK_BERSERTIFIKAT`) **is neve
 
 ## 🏛️ System Architecture
 
+mermaid
 ```
 graph TD
     A[Marketplace Scraper] -->|ingest.py| B[(SQLite / PostgreSQL Database)]
