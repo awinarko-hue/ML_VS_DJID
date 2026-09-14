@@ -38,6 +38,27 @@ graph TD
 ```
 
 ---
+graph TD
+    A[Marketplace Scraper] -->|ingest.py| B[(SQLite / PostgreSQL Database)]
+    C[DJID.csv Certification Database] -->|ingest.py| B
+    
+    subgraph Core Engine: packages/ertriage
+        D[text.py: Normalization & Noise Removal]
+        E[brands.py: Brand Detection & Canonical Aliases]
+        F[retrieval.py: Dual-Path Retrieval Aho-Corasick + FAISS + BM25]
+        G[features.py: 7/5 Feature Vector Extraction]
+        H[triage.py: Decision Layer, 6 Business Rules]
+    end
+    
+    B --> Core Engine
+    Core Engine --> I[FastAPI: apps/api]
+    Core Engine --> J[RQ Worker: apps/worker]
+    
+    I -->|REST API| K[React 18 Dashboard & Review UI]
+    K -->|Human Verification| B
+```
+
+---
 
 ## 🚀 Quickstart
 
